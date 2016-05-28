@@ -1,0 +1,16 @@
+160527 19:05:15 [Note] c:\users\user\openserver\modules\database\MySQL-5.5\bin\mysqld.exe (mysqld 5.5.48) starting as process 3476 ...
+160527 19:05:15 [Note] Plugin 'FEDERATED' is disabled.
+160527 19:05:15 InnoDB: The InnoDB memory heap is disabled
+160527 19:05:15 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+160527 19:05:15 InnoDB: Compressed tables use zlib 1.2.3
+160527 19:05:15 InnoDB: Initializing buffer pool, size = 20.0M
+160527 19:05:15 InnoDB: Completed initialization of buffer pool
+160527 19:05:16 InnoDB: highest supported file format is Barracuda.
+160527 19:05:20  InnoDB: Waiting for the background threads to start
+160527 19:05:21 InnoDB: 5.5.48 started; log sequence number 134032408
+160527 19:05:21 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+160527 19:05:21 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+160527 19:05:21 [Note] Server socket created on IP: '127.0.0.1'.
+160527 19:05:23 [Note] Event Scheduler: Loaded 0 events
+160527 19:05:23 [Note] c:\users\user\openserver\modules\database\MySQL-5.5\bin\mysqld.exe: ready for connections.
+Version: '5.5.48'  socket: ''  port: 3306  MySQL Community Server (GPL)

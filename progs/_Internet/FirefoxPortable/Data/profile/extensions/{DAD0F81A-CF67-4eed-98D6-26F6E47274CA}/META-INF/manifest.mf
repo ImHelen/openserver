@@ -1,0 +1,72 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CLhUWK0y4/rGG0Zw71drRg==
+SHA1-Digest: OPN8UNW4xWs+vapcr7zkiEEfZQU=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2qEmcg9s5sxd29q557mX/Q==
+SHA1-Digest: TD7m/1hC3bVhji8/uE/BrE110qM=
+
+Name: chrome/content/about.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ktB+wopTxPQt6+lOnyymqA==
+SHA1-Digest: BjtRMa9cpBxtXejxSO3+lSEmudQ=
+
+Name: chrome/content/tweak.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kw+KqCimOSrNBXHtPn5W8Q==
+SHA1-Digest: jSD/cY5PF/w0maV1bbWzcFTZHLA=
+
+Name: chrome/content/tweak.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: msBlc6Pe9PFTS0E0t115Yw==
+SHA1-Digest: K3l2yfTbCiDrMqaBs1LMFOvmWA0=
+
+Name: chrome/content/tweakOverlay.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tinudetf8UvRmu8LgBxQmw==
+SHA1-Digest: MKmaLGrBFacgmwwyHcl7+X/cZaQ=
+
+Name: chrome/content/tweakWarning.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4i9lZREsfytsjSDByG7Fmg==
+SHA1-Digest: J9rzlrz9A9O5BL1eDro67Ct2ihY=
+
+Name: chrome/locale/en-US/tweak/tweak.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hHjpmt9RtibU6tu8c4uEIA==
+SHA1-Digest: +OL0N84J51RNLJpit3wjin0GhK8=
+
+Name: chrome/locale/es/tweak/tweak.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MyI+c6rxuqvixbTKGK64wA==
+SHA1-Digest: X9pnLy1r3eUZIWnsc5dkRrM0fH4=
+
+Name: chrome/locale/nl-NL/tweak/tweak.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UpdsXL16EKslQxu8OE7Elg==
+SHA1-Digest: 8LV684OLEYROa5jWufYhu5Y6uE0=
+
+Name: chrome/locale/ru-RU/tweak/tweak.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zwLO6VjiMXPS/bqgsvCD/Q==
+SHA1-Digest: R8/E6pDfN62pnNHo3oOMjwk3iJ4=
+
+Name: chrome/skin/classic/tweak-about.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4gvvRTlG/+bfYO1NQf/hEQ==
+SHA1-Digest: kdu22nkihPDzb6N6cTTCWeWApx0=
+
+Name: chrome/skin/classic/tweak-small.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /HIOKJDgUV77Gn5EdIhbMA==
+SHA1-Digest: 9VMkdMgo9ukzcCZf3xBZmj3r1mM=
+
+Name: license.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b/1w6ucDrIUDAK7wg18pAg==
+SHA1-Digest: IjDPhPsJ87DqBbFyWvnkpwVYJ+I=
+

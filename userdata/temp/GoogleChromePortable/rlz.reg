@@ -1,0 +1,10 @@
+REGEDIT4
+
+[-HKEY_CURRENT_USER\Software\Google\Common\Rlz]
+[HKEY_CURRENT_USER\Software\Google\Common\Rlz]
+
+[HKEY_CURRENT_USER\Software\Google\Common\Rlz\Events]
+
+[HKEY_CURRENT_USER\Software\Google\Common\Rlz\Events\C]
+"C1S"=dword:00000001
+"C7F"=dword:00000001

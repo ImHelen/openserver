@@ -1,0 +1,30 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "metrics.js", "browser-action.js" ]
+   },
+   "chrome_settings_overrides": {
+      "search_provider": {
+         "encoding": "windows-1251",
+         "favicon_url": "http://go.mail.ru/favicon.ico",
+         "is_default": true,
+         "keyword": "mail.ru",
+         "name": "Mail.Ru",
+         "search_url": "http://go.mail.ru/search?q={searchTerms}&fr=chxtn7.0.2__PARAM__",
+         "suggest_url": "http://suggests.go.mail.ru/chrome?q={searchTerms}"
+      }
+   },
+   "description": "Поиск от Mail.Ru в адресной строке",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnjKIQ4nE/7+JSQEQpKiIxNq/eU5lzrjJmHkdI7SKjAphSLNzTWDK/u2ya0Cq3SVQjeOgP5oGR9f+fDPtvZxuKeusw87nYWBI110Qm8qtw/9u6IM4onipttVfyGB9xBb1H5hRofAybKkeukXOIcCBfasjJmBW+K28Nn1nYsZoifwNPJsOABhv6UIhP2AMSl0kAOBZLRqM9XhpTZr8mhL69Vjqkoi1a1JexIrtfGsj0+OKLalETyAUBPrLQAfo3jCNm7OMldFJTbKgfzwlwZg5H1mZFUJ9xIPvLvcUkiakUR0iPWNw3ZCAdoV/rfu9+7gGwrw4+b360iHT/8JJr/nhZwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "35",
+   "name": "Поиск Mail.Ru",
+   "permissions": [ "alarms", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "7.0.2"
+}

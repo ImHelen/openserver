@@ -1,0 +1,4865 @@
+Manifest-Version: 1.0
+
+Name: install.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yhM70bBMZ4JjcBkA/bEpTw==
+SHA1-Digest: y0aWFkPvQz8RSMGwWRTKq3sLrp8=
+
+Name: chrome.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 47VZgLGV5cNAmTBr2Xfy8Q==
+SHA1-Digest: qLfELmJQ/NDcS5SIvhA21ZBLvoU=
+
+Name: install.rdf.4
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9ygxBqCJRoozatSTt5hi0w==
+SHA1-Digest: jxrmH5B2LXpNjmLTswBolStd1Ds=
+
+Name: licence.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0VQpS2SgdAdJ3Ni9dXXb7w==
+SHA1-Digest: WSJ/n8jSr0kiZF7vQad805wmiew=
+
+Name: components/.autoreg
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1B2M2Y8AsgTpgAmY7PhCfg==
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: components/libnstidy.dylib
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: J1rHyHeJ1PNJaCMr54r7bw==
+SHA1-Digest: 8LiX9i4KhEdISKEiubIQtHHRRRM=
+
+Name: components/libnstidy.so
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /0TeKykAS1W4T2zdpRycgQ==
+SHA1-Digest: xBLNs7Hla36eu7ve5TDPwNqBaHk=
+
+Name: components/libnstidy64.so
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YGjf8YDc47YygAybaepHug==
+SHA1-Digest: 3pOSD7VN/QQGivcZ63SE4MXJzZs=
+
+Name: components/nstidy.dll
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XPwpho2zdUxJZoVgScpNZg==
+SHA1-Digest: ZiiYfX6+/sRlF1MdSuVffo+cYiQ=
+
+Name: components/nstidy.dll.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HkqJsR6uD8+Ltf3V7DtvYQ==
+SHA1-Digest: QmAoTOFCeMOXqvbzicFgmwqwzlE=
+
+Name: components/nstidy64.dll
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: twRmX/PMVolSKk4k7vlMLg==
+SHA1-Digest: U9zBZ+IwPdH3W9C6S2nBbw53kaM=
+
+Name: content/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4t1YtkiZRcgjuklNzXZU7Q==
+SHA1-Digest: Ky8+ZYwmt3FwP+iKxy9I3OfSFBI=
+
+Name: content/tidy/tidyBrowser.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oYlDA7C8GSuaAScDvSiNLQ==
+SHA1-Digest: zA6n6JI3qe9TvpC1tBa36Rb2D4w=
+
+Name: content/tidy/tidyBrowser.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9jvKJHLN5jLc2uaSxagPEA==
+SHA1-Digest: XUyEXja1wxy+ShOEoHlaZKlOztc=
+
+Name: content/tidy/tidyChooseSource.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vOKMQ3kGoVEghKNNXw6Huw==
+SHA1-Digest: Q/eQJdIiiSk44MEJEf/TvFr6Krw=
+
+Name: content/tidy/tidyChooseSource.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nRjURUR9BjtcSLCFmUGsxg==
+SHA1-Digest: KoSAwGlAzEh9OBA0ki1udeG7Nbs=
+
+Name: content/tidy/tidyCleanup.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lFgwvVVXP6ET70VTGcyeSg==
+SHA1-Digest: lqN9LcKi/jE9N6k3ou+bUtVSGVs=
+
+Name: content/tidy/tidyCleanup.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aX15HF9Fy5VUu4hO2kcXHw==
+SHA1-Digest: 1aTOiDbjtfW1ccZ/qwgya6/0hbU=
+
+Name: content/tidy/tidyHelp.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SiutgtZMdsYW7XRcGNWafA==
+SHA1-Digest: P7m2Ul+WmvTlWiBnrB9s7KVyvU0=
+
+Name: content/tidy/tidyInstall.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: I2XZ+x2wNrfrV540fC5n3g==
+SHA1-Digest: C5sJrL76mykwu9tLQpeIQCm1Urk=
+
+Name: content/tidy/tidyLib.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jUt3ewoAaaYj2yv4JxiXcQ==
+SHA1-Digest: xYhs87O4humPvCCkzPqXrN7gHiA=
+
+Name: content/tidy/tidyLinks.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kCnx5Qofifga7AMDyPYxFA==
+SHA1-Digest: 0SbNmFRHd9ntDUSnoC2kZQB9beE=
+
+Name: content/tidy/tidyLinks.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FVygkvSHEQDLmeqV0CNl2w==
+SHA1-Digest: XIVc/kqSOLvRQ8Z+ymChIXHd2BI=
+
+Name: content/tidy/tidyOptions.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: v+iAOj+KU6e12SzCOW0ujw==
+SHA1-Digest: aO70z2oACIJPJWNqkkTwDrT9CIw=
+
+Name: content/tidy/tidyOptions.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: anpNmjO1Y7zp7zLqTNL3+A==
+SHA1-Digest: xfPuWEj4tnwWpCn8u5q5EKOr+Fg=
+
+Name: content/tidy/tidyUtil.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BEFeQgI43GmZFkTV05VMNg==
+SHA1-Digest: poXLpWE3wVj1BW80LdUOW2Gu3fM=
+
+Name: content/tidy/tidyViewSource.bak
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Y01ZdV/3g+iU2TshPRG/Kw==
+SHA1-Digest: 6YDNFsnn/DriqC7WT/gOkza2hk4=
+
+Name: content/tidy/tidyViewSource.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vKQ827rtwE6agcfCenHEYg==
+SHA1-Digest: MD5IVa4du8EqrYkFKDc/37ZdaOo=
+
+Name: content/tidy/tidyViewSource.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zIi6txji1N97VeT4JQNDSA==
+SHA1-Digest: y1rm9lTBhOBdK06dj42rUSQ4v3A=
+
+Name: content/tidy/tidyViewSourceFirefox.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8MWXJKMZv6O3MZEErOFMJw==
+SHA1-Digest: 9MR2BPEiYd0av+hxLYan9x34Zz4=
+
+Name: content/tidy/tidyViewSourceMozilla.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vcm0EZbvbhiJHwcqmSrHbw==
+SHA1-Digest: uFTsmHJHZGj/lFw9NJtlhzvrF0c=
+
+Name: content/tidy/tidyWelcome.xul
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EPPTyk//dH4rD3v1ubt5Ig==
+SHA1-Digest: Ob4AZ53e3taNAwYy9I/o/m2qOPU=
+
+Name: content/tidy/help/tidy_blank.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nn3rYcjVYvhXkSE2iUvhyg==
+SHA1-Digest: I/NPui1lUPtTqvFoo+NCtCvGiPI=
+
+Name: content/tidy/help/en-US/access_1.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IDaitvpBA7RYoAmKxeqieA==
+SHA1-Digest: /z1MRTewoM+Zr8y35mgWogAbNLY=
+
+Name: content/tidy/help/en-US/access_1.1.1.10.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5t1cODVMUiZuev88UJIAsw==
+SHA1-Digest: QgGC8f7IvsIMYL6YgENW8Ma4Mkw=
+
+Name: content/tidy/help/en-US/access_1.1.1.11.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BCjZrMHkcpoTs+1ZkeHl/w==
+SHA1-Digest: zsYswH+e0cirVUWX6hKtfpz4pPw=
+
+Name: content/tidy/help/en-US/access_1.1.1.12.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0WMf75Zz0fgzuTgPAcAwTg==
+SHA1-Digest: m1D0WkqHx7gIkpSGqwqYVsn6KrQ=
+
+Name: content/tidy/help/en-US/access_1.1.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0HeFQ4dP426TDoIaZC5hTw==
+SHA1-Digest: wWJOKcKM9IlFFzhgF+tK4FX3Jxw=
+
+Name: content/tidy/help/en-US/access_1.1.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mnyDUfsPeqanHwoeeOh7lA==
+SHA1-Digest: P7uFQd5D2zMiR8KbPdruKir7SEU=
+
+Name: content/tidy/help/en-US/access_1.1.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VzO4lWwd/CXaJ23y0raC8w==
+SHA1-Digest: JOacXtsmBakGny/ms+y3IZHRbQc=
+
+Name: content/tidy/help/en-US/access_1.1.10.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pJ4TDblbf15GZ7nDouI2hA==
+SHA1-Digest: oLe5kjhob6FTssugfd4SXkYBDLI=
+
+Name: content/tidy/help/en-US/access_1.1.12.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: y89cnCzpKluXwC3FC94idg==
+SHA1-Digest: q5p/ewwDSHUF4k9F22Sjkxszi5o=
+
+Name: content/tidy/help/en-US/access_1.1.2.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: X1irMb56ODHhsRKxvY5J9g==
+SHA1-Digest: LVlgbV+AXYhltzuSDHe5aUlZi4A=
+
+Name: content/tidy/help/en-US/access_1.1.2.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gjzNx2/TDGYwWpUanABmIQ==
+SHA1-Digest: 1PQRyBKuSy2jq066dxrQoYOr/zU=
+
+Name: content/tidy/help/en-US/access_1.1.2.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: obi4eX6PaONPyWIQMpkhgg==
+SHA1-Digest: IzwhhzkfOjjNjh+Uuuuh/hdLu8k=
+
+Name: content/tidy/help/en-US/access_1.1.2.5.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yUBV+6ZQ+FvRloqkP+TlnQ==
+SHA1-Digest: nNiX3uDRC8VvButf2VjTGj4uDTY=
+
+Name: content/tidy/help/en-US/access_1.1.3.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DBLNGrgBKjx55ZuMIGgHeg==
+SHA1-Digest: vhFYl6ksbZQZUFVI6s16K7UUZtk=
+
+Name: content/tidy/help/en-US/access_1.1.4.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: h0rN8y3Mhq9LGb7KdjCDmQ==
+SHA1-Digest: W1A985mg25TWqy0ARxynTBNgEwE=
+
+Name: content/tidy/help/en-US/access_1.1.5.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: culpOaflaMRi0vL0/E6g8A==
+SHA1-Digest: ww4TmN+5fY59QhJ8pNO6r86OHBI=
+
+Name: content/tidy/help/en-US/access_1.1.6.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YJFnrE6w1a5S/61VXsNkoQ==
+SHA1-Digest: 8fYEXUrmAsbtaMHwg61ds5tHR0g=
+
+Name: content/tidy/help/en-US/access_1.1.6.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1xKPR3b1eimoUdmZNy7NgQ==
+SHA1-Digest: eMVBfROorW3qPWqPhE3H2aqZ3MQ=
+
+Name: content/tidy/help/en-US/access_1.1.6.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CQeBqzJt4FLiablVT7DJKQ==
+SHA1-Digest: rg+QIBKtRrBGSHP6SH8wmQ12TQU=
+
+Name: content/tidy/help/en-US/access_1.1.6.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pYflm2KFROSqS2FICSG2Iw==
+SHA1-Digest: UV5re536qU+K6yFG3JZx1tFnnjE=
+
+Name: content/tidy/help/en-US/access_1.1.6.5.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SpbtagIY8P/s5V9P2ihFbQ==
+SHA1-Digest: ILkKUnc/72AFuCTmg+rKMKtjDlE=
+
+Name: content/tidy/help/en-US/access_1.1.6.6.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rdJf/VxWEqs0/V86DiUyyA==
+SHA1-Digest: KCoG4Uv6yvCUCLyfTGQeqbP5OB4=
+
+Name: content/tidy/help/en-US/access_1.1.8.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Y3o+uLPNTc7HtgonFWvh1A==
+SHA1-Digest: ZEtCktiIzA2Wh7/a5G/MTT6RpL8=
+
+Name: content/tidy/help/en-US/access_1.1.9.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LbfciZhescsKzV/h5Dc/Tw==
+SHA1-Digest: reSEkErbmgDF6MQb3+DuW2/GlF8=
+
+Name: content/tidy/help/en-US/access_1.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3qgwh+zdG+s4n70yTYAPhA==
+SHA1-Digest: 5ySNWzkjHb3MohihQIqBxVChwAM=
+
+Name: content/tidy/help/en-US/access_1.4.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zFbWfdMZr4QXEFSMuLOyCQ==
+SHA1-Digest: f+7kfHRYo9jw2fzDIX3FmTO/cuU=
+
+Name: content/tidy/help/en-US/access_1.5.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 33jdVm7cimlgBsLuwKZNvA==
+SHA1-Digest: 48Bg2bbCYOqGXnf+8WrGz7aqZWo=
+
+Name: content/tidy/help/en-US/access_10.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: q+MrFk/jje6Hqqke3w7IlA==
+SHA1-Digest: rxiDDAqQJWT/PhIOfodh08ZclyM=
+
+Name: content/tidy/help/en-US/access_10.1.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F+qXSg6BopX3+iAXg+2z4A==
+SHA1-Digest: 5PX1cIKtyXhPTPgan1WhVxWKnm4=
+
+Name: content/tidy/help/en-US/access_10.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /Jz1sMl9i5YGPiKHz8yqZg==
+SHA1-Digest: z6Sf40eNUX3GBZuTDcZ4Q4ksyqM=
+
+Name: content/tidy/help/en-US/access_10.2.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jRpZ+7agFK2YrnNh312zYg==
+SHA1-Digest: HG622CaaAPKjGi1AGQEiuiwNw4w=
+
+Name: content/tidy/help/en-US/access_10.4.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /LWsuxlIOHCyE9NlRShvjg==
+SHA1-Digest: uUNJmdZgSOBtK2MNtPgU6UjYY3c=
+
+Name: content/tidy/help/en-US/access_10.4.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ppEHZqW27bbw/NZmfRGz3A==
+SHA1-Digest: w7009an5hKxujdVFwZ+FDH/3H9Q=
+
+Name: content/tidy/help/en-US/access_10.4.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c/ocdvw/URiB01HsydYAXQ==
+SHA1-Digest: 7a8lcgSsGjXvH0uqNH37xjFvTvo=
+
+Name: content/tidy/help/en-US/access_11.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IbGYYVGMwvZyX6cbnJeNsA==
+SHA1-Digest: reLSyx9V5LXmcY/GYeyz31bEYm8=
+
+Name: content/tidy/help/en-US/access_11.2.1.10.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wAUCszT6/b7k8VjweGDcKA==
+SHA1-Digest: kzKChyLwS0FL8WE1ec3f0GTzOa4=
+
+Name: content/tidy/help/en-US/access_11.2.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AHrS3vTLYuNsZe6XUJiVfg==
+SHA1-Digest: wbWmQpt5efCHkqlisAwCdvl8FSA=
+
+Name: content/tidy/help/en-US/access_11.2.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mBU1V1WKD+Mg0v9XcAcXrg==
+SHA1-Digest: WiRWhDFr//craThPhPNHQkoptqg=
+
+Name: content/tidy/help/en-US/access_11.2.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YhlMb0/P0UMM2PjZ+SFfOQ==
+SHA1-Digest: hIva8yOplj1pCG2fExWv12CjG2U=
+
+Name: content/tidy/help/en-US/access_11.2.1.5.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r0jHYioK1eCu+g4Ju7IjRQ==
+SHA1-Digest: SuyEF+mqZgNmcxjFzDkwbuwvEhc=
+
+Name: content/tidy/help/en-US/access_11.2.1.6.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VCZeSJFDVfRN1wJViqEyQg==
+SHA1-Digest: SUsW2bq46bjCSl+zHne/t7jCkc4=
+
+Name: content/tidy/help/en-US/access_11.2.1.7.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BzVfgdbaooyHbXmX7g7s1A==
+SHA1-Digest: 6lSPV3Hpp59gzpoJYnAq2P0iFCg=
+
+Name: content/tidy/help/en-US/access_11.2.1.8.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2Pncm+aXglZy+dFNxKLg4g==
+SHA1-Digest: WTTWl3ZAnMqg5S/d5ftrvwE7xZU=
+
+Name: content/tidy/help/en-US/access_11.2.1.9.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: N4Y4WgrXBgx2f5ZsGsTrRg==
+SHA1-Digest: dTUVCn/nKcoTd4kiQOH1hKx2GtM=
+
+Name: content/tidy/help/en-US/access_12.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: B15zaWAWGGwKwqGUfY1p+A==
+SHA1-Digest: c35B/FmefICkwqYEXcylVKtBmTE=
+
+Name: content/tidy/help/en-US/access_12.1.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ei0tvp9kQsAq2VvGqTUQRg==
+SHA1-Digest: wFWUZZM5Kd+Bn11+OTGwVZUfmnY=
+
+Name: content/tidy/help/en-US/access_12.1.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1K5wEXOoq0FdID0WqAPhjw==
+SHA1-Digest: P/juOddEMkck9wPg8qKT39ld+1s=
+
+Name: content/tidy/help/en-US/access_12.4.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zhtVvNQ9b+wMW1rseYntfg==
+SHA1-Digest: EdedlQeAF1qt4h0aME2/cAJ+Wuk=
+
+Name: content/tidy/help/en-US/access_12.4.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JxOWaoxuJfMkxe7sLe3jmQ==
+SHA1-Digest: +Bcn+DPAlYMmAwN5ntNaCGgZ3oU=
+
+Name: content/tidy/help/en-US/access_12.4.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WrSmMFu7Iufxh7aqLYQn6Q==
+SHA1-Digest: OGWUHPDNHUHC2sdOB1HMBvfL304=
+
+Name: content/tidy/help/en-US/access_13.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1NViwd6+KLQ3LI9npIjEOA==
+SHA1-Digest: mLTu6F6VzDMbhnVI9alglDJbChY=
+
+Name: content/tidy/help/en-US/access_13.1.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BSAlELSDa3bXqvqKRc/WHQ==
+SHA1-Digest: 5jiuBL0kO0Bc1iCxyMqKrCJIifg=
+
+Name: content/tidy/help/en-US/access_13.1.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PZF73NfFHkGabcVN1FmJ/Q==
+SHA1-Digest: uumC2hVeRPOULwYlxc+UirB5r6M=
+
+Name: content/tidy/help/en-US/access_13.1.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PKxviGVP9Nj6XvDlZ5f/Ww==
+SHA1-Digest: 0qeBbuD+uqlll9tBmq3+Ci5bRjg=
+
+Name: content/tidy/help/en-US/access_13.1.1.5.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YdapqImdhyde/MxeDQpXeg==
+SHA1-Digest: sdCybHjDJ5d/5S6fRmvMQ3+YI+M=
+
+Name: content/tidy/help/en-US/access_13.1.1.6.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ooZ3yhoXk12d/Oco+xkNYw==
+SHA1-Digest: L2wW5o5zpNQ65ST5qw9j4u/2f0g=
+
+Name: content/tidy/help/en-US/access_13.10.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kYrzxjkOTizbApVpfFBfgw==
+SHA1-Digest: +0P4sPN3aJU9zRvlg9/cA/xizTw=
+
+Name: content/tidy/help/en-US/access_13.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OnDRj1wcH2T4mU34z0RuvA==
+SHA1-Digest: b9IDLnl7/aAqzwmoO5MSECmp4eM=
+
+Name: content/tidy/help/en-US/access_13.2.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fj4h60v+QOeVC0uoCutYxQ==
+SHA1-Digest: K+lUNU6U1rEAzz+rOZCpXfRXDlY=
+
+Name: content/tidy/help/en-US/access_13.2.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kX/wVCe507r2rOL7HKL7WA==
+SHA1-Digest: mXhBkieBg2sw12Dk8pbPxde5o7M=
+
+Name: content/tidy/help/en-US/access_2.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0zHNg9WtaPKH7wrKtJa4/w==
+SHA1-Digest: vHy0SFB0JCTR9HBc2KEIOHKrHFc=
+
+Name: content/tidy/help/en-US/access_2.1.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LSIwCufVQLGBY/6j7/+8WA==
+SHA1-Digest: 0xTuyPksea5E8jgWYC7VhTIGDDw=
+
+Name: content/tidy/help/en-US/access_2.1.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: v2bRzHzCOeMZaqlumJIjIA==
+SHA1-Digest: 4M0BmW2lpHxDZVVRt1Mmfk02vkQ=
+
+Name: content/tidy/help/en-US/access_2.1.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /dVgwfBuiyjLmC22tCbs0Q==
+SHA1-Digest: ZA9fXRbk8Itj1G6f1XIM6+a+PHQ=
+
+Name: content/tidy/help/en-US/access_2.1.1.5.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vVji4kobKYbV0CKD3PrqSA==
+SHA1-Digest: GcBBqyqxSCvGhNUjSwccG4NcfXA=
+
+Name: content/tidy/help/en-US/access_2.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ARgwBveT3O8BeIc4tRADNQ==
+SHA1-Digest: DtNLpJX075OLqhFmruqbzYaIFFM=
+
+Name: content/tidy/help/en-US/access_2.2.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qOpRiVFKnEr9zNulJlOsaA==
+SHA1-Digest: MeUYi+nWxq6GE8JW+lslYa40YRY=
+
+Name: content/tidy/help/en-US/access_2.2.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: y6dESfa+L2CenlAr62362w==
+SHA1-Digest: GHgKACb4gxzs3Dz+bmep2Z5gnto=
+
+Name: content/tidy/help/en-US/access_2.2.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ntVVzkhgZsn3aYCTJDNN/g==
+SHA1-Digest: qmI9Prw1djTIapqFByn3Le9jEH0=
+
+Name: content/tidy/help/en-US/access_3.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Hu8Cxr5dDY3SzehbS5JAmQ==
+SHA1-Digest: gS7LdMYFM4+GSJWt0jdZRwL1YR0=
+
+Name: content/tidy/help/en-US/access_3.3.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7lMMuQept02AzRQp5gkYTQ==
+SHA1-Digest: +gVD8DmerlwYWAesDdzpSUhQ/ZI=
+
+Name: content/tidy/help/en-US/access_3.5.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qcOXbmrTBHnfKZL0Ugy+YA==
+SHA1-Digest: hOLKFK02bbnbkKTkZAD5eJqJob0=
+
+Name: content/tidy/help/en-US/access_3.5.2.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YH5sLS1fJf/4JqrDo+dqug==
+SHA1-Digest: VCgrPWrtCe+0FvGAWJrCnDpj3ZY=
+
+Name: content/tidy/help/en-US/access_3.5.2.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MV6EvTIpTbqdqmgQk4PzTQ==
+SHA1-Digest: wnya3ysZgmVuCsO6jwCJyxnV0ps=
+
+Name: content/tidy/help/en-US/access_3.5.2.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: luofx60/jw8gZZvPjzpmmg==
+SHA1-Digest: u2tcDaHRB5PvDMcyqmQKB9DR0H0=
+
+Name: content/tidy/help/en-US/access_3.6.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mINCeE2jbfO8uuwQ7XNhcg==
+SHA1-Digest: BN5N1wCdb1q+J47uU+lt7oenz04=
+
+Name: content/tidy/help/en-US/access_3.6.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TVALwgYTwVPUXQ7zn+Xu3w==
+SHA1-Digest: B3NYBcuSN1t9PToaCNHe9TV/ftI=
+
+Name: content/tidy/help/en-US/access_3.6.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: upBWJMPilb+8Eq+X18clIQ==
+SHA1-Digest: edK7wvxPOVfwneanzqCJTZXcRf0=
+
+Name: content/tidy/help/en-US/access_4.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EAZgrt7d0DeoS6omd39TFw==
+SHA1-Digest: VaUOns4ll5SuSWu2d2Z1MxdxxdA=
+
+Name: content/tidy/help/en-US/access_4.3.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UE2VL+xtCU4VEbcwnBmuDQ==
+SHA1-Digest: hQSekyV7dSj85yE4r2gbBM/CmKQ=
+
+Name: content/tidy/help/en-US/access_4.3.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: H8/0uENFpJqIK0g0KA8EJw==
+SHA1-Digest: 9TdrBUYcuSdJvmQTkM8DRNsyj5A=
+
+Name: content/tidy/help/en-US/access_5.1.2.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: N3jEQQlLg/Lk0x6decY7tg==
+SHA1-Digest: /WXwBIScdOl0J2Rk5vctq0t/Lzs=
+
+Name: content/tidy/help/en-US/access_5.1.2.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MUZC7msUpxipSS6PzgEpBw==
+SHA1-Digest: +MogObR7GAx89NJmE9P473/6U0E=
+
+Name: content/tidy/help/en-US/access_5.1.2.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6YbWRtbuukU+WGLQ7mPWLA==
+SHA1-Digest: YLrWS2wxjHFofv1Qcvmg1i3Ngyw=
+
+Name: content/tidy/help/en-US/access_5.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xJRGKHnTpXt3mU1jhKwwPA==
+SHA1-Digest: YekHz5iqNzvkkSCH3i0NhQNF7mk=
+
+Name: content/tidy/help/en-US/access_5.2.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pusuVkd0Q+Ghx+mTbRogUw==
+SHA1-Digest: A61pWZIjGMkTlxdS/zqDUG9DBOU=
+
+Name: content/tidy/help/en-US/access_5.3.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GF6f9OeSFN8h5pDN2Hbjuw==
+SHA1-Digest: gnVrFb35DppMD0HkigXwDtKKSWw=
+
+Name: content/tidy/help/en-US/access_5.4.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WluG1SVKEL3LJYWGO2RtsA==
+SHA1-Digest: iEB1n8mK2xBcJQJHVmHbzCUa5PE=
+
+Name: content/tidy/help/en-US/access_5.5.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: J3AYxzGZpJ9/Mv45Vt8ckA==
+SHA1-Digest: yRnfpuQw56cm3kc2Zdp4oZsIUd0=
+
+Name: content/tidy/help/en-US/access_5.5.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: q5U4QOyGHNOCRM7hK2uKlA==
+SHA1-Digest: cSywl1jIAvXY2UG/UG99gOnoUiI=
+
+Name: content/tidy/help/en-US/access_5.5.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /vV/7xkQFcS9P/tqdMPL8A==
+SHA1-Digest: 2PshjWwc99VxJETcoiR3iVbgfFQ=
+
+Name: content/tidy/help/en-US/access_5.5.1.6.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Gtd8FarrH9tnztjTRWO7ZQ==
+SHA1-Digest: nY7NrNnA9uPsWEJYm5H+sdT7CVU=
+
+Name: content/tidy/help/en-US/access_5.5.2.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mjJr2s24VtdFj4D6swzA1w==
+SHA1-Digest: B38pazVkRMiUWb6FqBcWLL4fMCw=
+
+Name: content/tidy/help/en-US/access_5.6.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9i0DLrZbYUETc9v1PuIz0A==
+SHA1-Digest: jXoc0iIz0Mh34MDMW0SvMG3ME8o=
+
+Name: content/tidy/help/en-US/access_5.6.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oYF3zm9nLkRVRPMLYBMA3w==
+SHA1-Digest: aGJ/RPastkw8nJthmAtI6F3qX3w=
+
+Name: content/tidy/help/en-US/access_5.6.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /1VZvAWZi+r94+4SmwrMZw==
+SHA1-Digest: w4/PQNNblPIseOmPswfA01pj0jQ=
+
+Name: content/tidy/help/en-US/access_6.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SrWWoRYv7iIlima/cIiBXw==
+SHA1-Digest: gUAf/C0t/OTZLxkYUqbsiQqwpqo=
+
+Name: content/tidy/help/en-US/access_6.1.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nnHekN2H5wQZDDCaWr+Uqw==
+SHA1-Digest: EjWu0i7B0u1muyihr+u4HZF5FpU=
+
+Name: content/tidy/help/en-US/access_6.1.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PpEridC4fMRDSwF1j0ppfQ==
+SHA1-Digest: YeFVsO6GDhj8k3qW198B+Z0VMqQ=
+
+Name: content/tidy/help/en-US/access_6.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: olog8Q9onT4sb6We9K2lQA==
+SHA1-Digest: 3uLCB+ZhmGx4Hd5sn1g9sGZaT+Q=
+
+Name: content/tidy/help/en-US/access_6.2.2.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IFTkniGVr194F+7uxCFr5A==
+SHA1-Digest: e4i5EimtXVYbAd1XVzUtelh+o4k=
+
+Name: content/tidy/help/en-US/access_6.2.2.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: l6SYj+OCI77s5Qa4PrKMhA==
+SHA1-Digest: VQUst5PTO8jTbZRJuZ3KHA+uNFs=
+
+Name: content/tidy/help/en-US/access_6.2.2.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +sEYLAfHI+Hc2FFMdIPObw==
+SHA1-Digest: KQWNMUUDaEuF/GgrIIrWhoF4wNM=
+
+Name: content/tidy/help/en-US/access_6.3.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GDEEiLQmlGIx53PoD/EnIQ==
+SHA1-Digest: ypIVYs3wQEifz/kDUyjaxxbFRKY=
+
+Name: content/tidy/help/en-US/access_6.3.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hBb7I1tp04cGqkPAa680Eg==
+SHA1-Digest: TKC5M2UAnZ/n0s/ORmxhARzGsB8=
+
+Name: content/tidy/help/en-US/access_6.3.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jARyILLtMzJaE0V50Ch8/w==
+SHA1-Digest: j3gpnMysm6raHidXREbhvDpAz/Y=
+
+Name: content/tidy/help/en-US/access_6.3.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PbCULusjTjQgioFvbETzaw==
+SHA1-Digest: Cmf6U845dra8sbWZFxnkM1jbx4c=
+
+Name: content/tidy/help/en-US/access_6.5.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KaukWWuWgFKJoMPvSXvvow==
+SHA1-Digest: gvg+Be8N/IoDIJrWM5IoYqO/BnY=
+
+Name: content/tidy/help/en-US/access_6.5.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VWcgAq4pvff7/gJDyrUqaw==
+SHA1-Digest: sm/P7KbI3l1H4gG9SZWeMI3+tT8=
+
+Name: content/tidy/help/en-US/access_6.5.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CKP1+RtDxVxoKY5FKQyI/w==
+SHA1-Digest: Jfs8qICrPd1n26RedGqZA3MyzkM=
+
+Name: content/tidy/help/en-US/access_6.5.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: E5dTRg/Q3UcYujSe1xwgjQ==
+SHA1-Digest: 9/x5zlppqYGMvwfH+NDDM34Q7hc=
+
+Name: content/tidy/help/en-US/access_7.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vZ0AtIXT30P8Vak38EOroA==
+SHA1-Digest: R8MOT+ZplM+ZMgyVNkRTfVTqXFY=
+
+Name: content/tidy/help/en-US/access_7.1.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GZ5eN8SWjJBzZB3YrbyE2A==
+SHA1-Digest: RowaqQxCDxo3u8c98u76tqHc14s=
+
+Name: content/tidy/help/en-US/access_7.1.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: w9AvD1wTLps7Lf//JY0bAg==
+SHA1-Digest: 5ghClhypnw4pFUCHZEoxDc27NfM=
+
+Name: content/tidy/help/en-US/access_7.1.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SpyCjFl7UMg5ORS3UmQLOQ==
+SHA1-Digest: PWg6rY2JqCZ/sXIx5IBd7T+tsx4=
+
+Name: content/tidy/help/en-US/access_7.1.1.5.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ege1wckLUdTvA37DRd8K7g==
+SHA1-Digest: mwpylZ6XOQT/uo6VFyXtZYwUYw4=
+
+Name: content/tidy/help/en-US/access_7.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GSKfwyVGA5nTbqx7/JO9lw==
+SHA1-Digest: UFli8nRZ+i2CeOqIxnh53bVNSPA=
+
+Name: content/tidy/help/en-US/access_7.4.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: q9rFklns/FBTOeZjUANing==
+SHA1-Digest: 7hTZLyd56lrn8s4x9FgMvl9cGbI=
+
+Name: content/tidy/help/en-US/access_7.5.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tQeScT2idCsuP/8bEslo9A==
+SHA1-Digest: N3OYlUHkNGcihFXJ5V2mTz+c/6E=
+
+Name: content/tidy/help/en-US/access_8.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4uuD2/pbwnLNf5LbFD6hcA==
+SHA1-Digest: TxS7jLu2+VVa4ga/xEgB8Pw2bbc=
+
+Name: content/tidy/help/en-US/access_8.1.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xM5KJ5onEiSNdNahE+BuEg==
+SHA1-Digest: dWpYL0Gx1Brr9zYpnQ0AsOaVFaI=
+
+Name: content/tidy/help/en-US/access_8.1.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sM4z4a0Pug7TjiwLsPcYpw==
+SHA1-Digest: khjg2duEqUXNx7jY/0pnlhBwloQ=
+
+Name: content/tidy/help/en-US/access_8.1.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: K4JdCxAQYIGw8+C995By6g==
+SHA1-Digest: KNs7EaRToTlsvjqrn8qSosIC71o=
+
+Name: content/tidy/help/en-US/access_9.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 99MDNXjAYi+MCBOn23AyyA==
+SHA1-Digest: OAucUDWNp/M59ppPSgOIJ8b0vIQ=
+
+Name: content/tidy/help/en-US/access_9.3.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kJ/Grew9j99cwfdM548LMg==
+SHA1-Digest: /Ru+kMPgIQ1JXVOSCSsWeTKFyio=
+
+Name: content/tidy/help/en-US/access_9.3.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uNjkAKMmzS79V2yBNX+f4w==
+SHA1-Digest: esglzo7FzplrmPue6RlDYeZR+2Y=
+
+Name: content/tidy/help/en-US/access_9.3.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TfSkL9zd3d4S+DNq0e+T+Q==
+SHA1-Digest: KU1prlK993lJDaF4Cwg9zBuPjqM=
+
+Name: content/tidy/help/en-US/access_9.3.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: W/r0uyTL+eM4+Q0HJpqsjw==
+SHA1-Digest: Qy4vUtJ9l28UE5Sx9puhM8ewFHI=
+
+Name: content/tidy/help/en-US/access_9.3.1.5.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rJ7GtVMoh/NxYrjV2hRolQ==
+SHA1-Digest: 6Coeq4uJgsboMceiTirF9F4xgY8=
+
+Name: content/tidy/help/en-US/access_9.3.1.6.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3lYTBXkqp8YSdspmWNkfKA==
+SHA1-Digest: 2Ua+fa6rTmy/UKYz4o5wt4BUu9Y=
+
+Name: content/tidy/help/en-US/access_template.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XcH8XM7ykXDW0EEehAceuQ==
+SHA1-Digest: rAfjKQHH3mlIo3ZcRXouMZCCOFs=
+
+Name: content/tidy/help/en-US/algorithm.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WIZTwLWaYnuugf15b1s/eA==
+SHA1-Digest: yYIpHsRxFM9vSNacaG2/1C186gQ=
+
+Name: content/tidy/help/en-US/info.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sh9q8TlQ3a9M9Nne4/nWnA==
+SHA1-Digest: TfauWjoABFTkh4Adjbe9cj604Xg=
+
+Name: content/tidy/help/en-US/language.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G5BvP24aaodDrDmyogjumQ==
+SHA1-Digest: 7ILUIeJ+ys+hzM/sjmJjYBkYKt8=
+
+Name: content/tidy/help/en-US/message.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 825LDOxgC2MvxOBzL6oDOQ==
+SHA1-Digest: EHmIK0axs9SVwHgVS8mXKULW1kI=
+
+Name: content/tidy/help/en-US/no_help.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3F0e882sb4cSPdeWrL8eEA==
+SHA1-Digest: HqE8fdjuvbOWDmizOjTGfIBefc0=
+
+Name: content/tidy/help/en-US/serial_good.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 11HePRxe58wSEEYN0EAkXA==
+SHA1-Digest: FiPX2q2PneUyprWYDecCULv37RE=
+
+Name: content/tidy/help/en-US/sp_105.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mG54p19T7vCMbo2uOyHmcQ==
+SHA1-Digest: modbYBc0yul56mxqpbk0kDjqo7U=
+
+Name: content/tidy/help/en-US/sp_106.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wH/X2mJEOeqjh6vV+1cmnw==
+SHA1-Digest: Tqk6O4cieZWRCQLpiRSiFWfj7IA=
+
+Name: content/tidy/help/en-US/sp_107.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UNuzget4uGv//hSuc3k+tA==
+SHA1-Digest: 908Rahex3F8T9lPTjU5dl01SPlM=
+
+Name: content/tidy/help/en-US/sp_108.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: o36vp5QVdIM3rdwN94Yh1A==
+SHA1-Digest: QFUo+lkeOF3RypToX9rjZluY25s=
+
+Name: content/tidy/help/en-US/sp_111.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LwkiET6VVylNBPAjkIdCqg==
+SHA1-Digest: cuRer0RRUvST6DHDQrqxKO5xxz4=
+
+Name: content/tidy/help/en-US/sp_112.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F+SH4nvh5QmvDWj6Afm/rA==
+SHA1-Digest: n8RINtNeJ4pga9mNVfxe99SM2AY=
+
+Name: content/tidy/help/en-US/sp_120.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: k83SPfIHtMmYbwgquwbqgQ==
+SHA1-Digest: CUXmWUuGphDcCMNMCtiO/8AxRiM=
+
+Name: content/tidy/help/en-US/sp_121.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2fVZuODAxhBCd+UNyBORTQ==
+SHA1-Digest: rAGqSV2hGDLg/e/FeB5psAmNHaw=
+
+Name: content/tidy/help/en-US/sp_122.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0QGFuvgJ404BP2j15an32g==
+SHA1-Digest: 2YFic8kfHoyPk8STrPfWntzRU1w=
+
+Name: content/tidy/help/en-US/sp_123.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MhqzDGp+eIxsJsqMPFujEg==
+SHA1-Digest: 5oqGJi/bB3DpiQKGBbRQTGfdlp8=
+
+Name: content/tidy/help/en-US/sp_124.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: auyyxRTyyfdcTmr1qyHvRg==
+SHA1-Digest: fuEgz6+N0VpraPApK4ZGryj3qZE=
+
+Name: content/tidy/help/en-US/sp_125.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: n6X30s1EKoyNqYAS6l8JuQ==
+SHA1-Digest: ectH1vzyqV1gNBaMkPvSvSBU2NM=
+
+Name: content/tidy/help/en-US/sp_127.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AO0hvxDPYTn2kOQLJgYA+g==
+SHA1-Digest: JKkwUUKyDoZHKYo4YF0wBwRQKZk=
+
+Name: content/tidy/help/en-US/sp_131.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: L10q9mfs5jmwEc1Z51v9DA==
+SHA1-Digest: /fqhNYAj5txGM70w6+9dILXXYtQ=
+
+Name: content/tidy/help/en-US/sp_137.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SsMFAEhptXeUN5baQZSQkQ==
+SHA1-Digest: At90YhoY5bHwbZQFIC4wFvtwsCk=
+
+Name: content/tidy/help/en-US/sp_139.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OxyKdoJw0V45FkjLrk3chQ==
+SHA1-Digest: 9qSDkMCMkeJ/M3hsKfbanwJw2cQ=
+
+Name: content/tidy/help/en-US/sp_141.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xPxe/Z20K5jKyILrzn/mig==
+SHA1-Digest: 7mJwIavkIDR3+corO7jbLfIwnjs=
+
+Name: content/tidy/help/en-US/sp_183.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xzAfTtcf08aLwVI8Vz5eAQ==
+SHA1-Digest: 5fo6BQzxRC2y/9Am6o7EFqnHFjM=
+
+Name: content/tidy/help/en-US/sp_187.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: W49SvotoJdMldxGOTqvcdQ==
+SHA1-Digest: fCoLytGKTEQXWb3d5WeteF753xU=
+
+Name: content/tidy/help/en-US/sp_2317.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IBeZCPEJcNeWKFRlu3c2HQ==
+SHA1-Digest: xqX+zTKO22JlrXrB9fDnlgtJ9mM=
+
+Name: content/tidy/help/en-US/sp_247.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s3SsA08ONuma+wn8fCeNRQ==
+SHA1-Digest: 3v2WTpEhBlzgMmMn3BhWIgYoGlc=
+
+Name: content/tidy/help/en-US/sp_249.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MXqQoJ4WHyzB+I84gWcfVA==
+SHA1-Digest: o4oVO9uBI/QLmOyXYmbEmrWpVak=
+
+Name: content/tidy/help/en-US/sp_25.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Vo990qMlWm3m4flWaJOISw==
+SHA1-Digest: EzaZD/TYO3HAfmm12dS0HNE4ePo=
+
+Name: content/tidy/help/en-US/sp_257.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /Tt0isYsOU/6EdwDWqwdTg==
+SHA1-Digest: Z9WhY39sPIrNHAXsDkVi/IzlM7s=
+
+Name: content/tidy/help/en-US/sp_28.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UWOUNpRLgDzhSI1/VBM41g==
+SHA1-Digest: XyvqgVdcMEHF/LrYis8SntrULbA=
+
+Name: content/tidy/help/en-US/sp_306.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UY547wMC6DrZ2q+zfTuGhA==
+SHA1-Digest: FTs/pO5Wf139dkKWrW8KhtFOBRk=
+
+Name: content/tidy/help/en-US/sp_323.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cwsaYwyIQKv6G+whtt4rcA==
+SHA1-Digest: JsUTpTJCKeIaF+W+b3K6OGilVXs=
+
+Name: content/tidy/help/en-US/sp_325.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kicN/rJHa7A/89yKf/lyAQ==
+SHA1-Digest: 9ZOwXPcqi2MxAFmkIJ4T5M0jtl0=
+
+Name: content/tidy/help/en-US/sp_338.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ztmpzQMkVfYA3ENXE6S3EQ==
+SHA1-Digest: hW0cp6nIRD+u5uoRHCjsnZqCWp4=
+
+Name: content/tidy/help/en-US/sp_344.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YYZufAz44tSdMpFZSHz94g==
+SHA1-Digest: 1ABdSG+QQ9SNMDoboOKHIhdJTmo=
+
+Name: content/tidy/help/en-US/sp_378.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vgCrJfUqi5EJrnmTv7k7LA==
+SHA1-Digest: eURR0suocpKoe3MEVTpzP8misTE=
+
+Name: content/tidy/help/en-US/sp_38.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: P7aV1Oe4o9ecQi+k/FSbtw==
+SHA1-Digest: qXq4NiBxMPbl5lL7TeXMSnvSOAs=
+
+Name: content/tidy/help/en-US/sp_387.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4b+vlqB/fTHKdUXpBJH/7w==
+SHA1-Digest: Y2pEUB/VpL1YCu9T9+x+s/moatI=
+
+Name: content/tidy/help/en-US/sp_394.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YMeR4QR+P0UfjtO9U1rGKQ==
+SHA1-Digest: xtFQwMpEJX+YR8CUOd9bu1AU6tk=
+
+Name: content/tidy/help/en-US/sp_403.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WxTqkITP3ypS7+Is+/iJog==
+SHA1-Digest: I9IgiVy1sHAAIb0Wd+ePLDH3B5s=
+
+Name: content/tidy/help/en-US/sp_404.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: t0qzZhAaAx4Klvbf9ZUtaQ==
+SHA1-Digest: rCooMlPnKyoww6VuAuwP4ZmzE4Y=
+
+Name: content/tidy/help/en-US/sp_407.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: myL7cnN20VMjqKN9V8DBuw==
+SHA1-Digest: +E8NeFyKyKStuGD/KPi+S39rhaM=
+
+Name: content/tidy/help/en-US/sp_410.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4g2TtB67BQneObWCGDHIrQ==
+SHA1-Digest: R/Q5eQU2IQwWmuc23e1EgP2KLjk=
+
+Name: content/tidy/help/en-US/sp_42.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fjuOFzoyBR7wAeXtctWZzA==
+SHA1-Digest: jA+4LcApNfUxnctKTSbx9HVOwZw=
+
+Name: content/tidy/help/en-US/sp_46.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fnmHQMc1lsfKX6Ji5JVK/g==
+SHA1-Digest: t1A3LRKWfln65Bm0zbrfuPDrbP4=
+
+Name: content/tidy/help/en-US/sp_47.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: skHivGUmJ/2N4zXN7lsF1g==
+SHA1-Digest: Jh9Loml4Ldx82nFnhBoYRaQk8WU=
+
+Name: content/tidy/help/en-US/sp_53.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: n6nTWCRr9eDJ1WLcplvS5g==
+SHA1-Digest: VmnWoDbsKh86Fb55TL4tLG1zDtU=
+
+Name: content/tidy/help/en-US/sp_63.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: phEUwK1Od/XlspwO9KR3nw==
+SHA1-Digest: 3thmn/XZuoS9QYSIW7qX2/jcl5k=
+
+Name: content/tidy/help/en-US/sp_64.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5YUUTbrOhpcQQ7WkSLMnaA==
+SHA1-Digest: NRlQt1cZrTlwCh18a0RUpr/zavg=
+
+Name: content/tidy/help/en-US/sp_65.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FzEGVThKoBOCWazXBNkIbQ==
+SHA1-Digest: Csr3wv7KPtyi7tcOTzWWNnhcyyU=
+
+Name: content/tidy/help/en-US/sp_68.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xTBhU1buU4mhJqlee0p88A==
+SHA1-Digest: uwdbOrXNaloGs8QsRRPpDEJrthw=
+
+Name: content/tidy/help/en-US/sp_69.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Rgb5VoPEzNmCnOvqutBrCg==
+SHA1-Digest: 55Ek3U6EADe57YDLRI1awJbhiJM=
+
+Name: content/tidy/help/en-US/sp_70.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: y9q5SCLx1u21Nhk/7kCaSA==
+SHA1-Digest: ZHdHgZfjX7L3hRH7Zpmfv1/B0Vs=
+
+Name: content/tidy/help/en-US/sp_71.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XER3YheoXwr7Y5YOmqPVng==
+SHA1-Digest: SrYt/hweLwfuawv9rxR8iIhiOAI=
+
+Name: content/tidy/help/en-US/sp_73.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: x2V96pGIRVoj5QfwE18u/g==
+SHA1-Digest: D9kVbuiWifquZGpt0/Xzohp2A3M=
+
+Name: content/tidy/help/en-US/sp_76.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YezlgD3+Ahlv9Ifqfcyvhw==
+SHA1-Digest: B8HykOhoPq3u1GdEuKgYPzfA5LI=
+
+Name: content/tidy/help/en-US/sp_78.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HG3kq/hnMHl7XeMtme3KeA==
+SHA1-Digest: vE//1xw/9cqtSo/X5SnQ4ne+hsI=
+
+Name: content/tidy/help/en-US/sp_79.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CdtFBxCUnqf7EGgin6b65Q==
+SHA1-Digest: nd0hHPuxzeuzM82XGIVT1O9Da/0=
+
+Name: content/tidy/help/en-US/sp_82.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sXd30ywNnAmE/xA8ExDA1g==
+SHA1-Digest: 5gvbvw0X+mfywmnY5PPovrj49Is=
+
+Name: content/tidy/help/en-US/sp_good.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7EyXgyoPgLHgW5cPzfWg8A==
+SHA1-Digest: OswKbIUHf+z7Swb+R3b5HOohs5w=
+
+Name: content/tidy/help/en-US/sp_nomsg.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pnQGMGxEtjiCPZNdYIE7FQ==
+SHA1-Digest: iHjUycVwK95fuOD50yHzVDfcTR0=
+
+Name: content/tidy/help/en-US/sp_start.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: h5tWy1FA1/bToSon5kDtvA==
+SHA1-Digest: 8AF7NZ9RXYL2s1TJ/E0JjmutkBU=
+
+Name: content/tidy/help/en-US/tidy_1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: i/aiJoieFrbxzMI+Nza8Gw==
+SHA1-Digest: iijHEK/pKdxOo7mgyoaKxNqeFNY=
+
+Name: content/tidy/help/en-US/tidy_11.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pP5P2ahIERjgQ0QRfqJ9sg==
+SHA1-Digest: iF5OTRiY9kQ6NoFvwJK2PkuKaFU=
+
+Name: content/tidy/help/en-US/tidy_12.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ruoWP+6azyj6aOuEruU+NA==
+SHA1-Digest: mCsPdFgqjbMe379piZAbqq9ACeo=
+
+Name: content/tidy/help/en-US/tidy_15.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: id3ONbpPCLlEblByjPavWw==
+SHA1-Digest: utfzrFZGacjlwGl4QTGeOsBngIg=
+
+Name: content/tidy/help/en-US/tidy_16.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sZ2eES+a7HsEFXqSPHfU6w==
+SHA1-Digest: +qE1/BN4coLS37/0/V4CMXrBn5E=
+
+Name: content/tidy/help/en-US/tidy_17.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8ZJ1ZfMO3s+xC8gIBW6fdw==
+SHA1-Digest: CHFMkUSibEVedVbS3x8bpNm22Gk=
+
+Name: content/tidy/help/en-US/tidy_18.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r87353oZfCOzhxiM3zShcQ==
+SHA1-Digest: 1F0Z2sAeY28VdrkVXGo+TDFkMOw=
+
+Name: content/tidy/help/en-US/tidy_2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 55JONpFxYK5ZG+qSFVbMbA==
+SHA1-Digest: vJOKwSdk8HP2r2i/OwB81Ai3EVY=
+
+Name: content/tidy/help/en-US/tidy_20.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FTow27Ly4pUKYw1Vn6anxA==
+SHA1-Digest: WGJCmFzkSMcwnQgX1dC6aSHXHBg=
+
+Name: content/tidy/help/en-US/tidy_21.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Mv2EBgJkuMxhpjjB3/6f+A==
+SHA1-Digest: nvEf5XgqUClaB3EL1uG05hLo6/Q=
+
+Name: content/tidy/help/en-US/tidy_22.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ABGIrW9CR0xsRq5xNjBUvQ==
+SHA1-Digest: OnbIQSfBG9xybeGAfuhwAd0UWNk=
+
+Name: content/tidy/help/en-US/tidy_23.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rPRMDUJB6PI3d2CVMByVFQ==
+SHA1-Digest: 8iJQSLZDyBddLaco/r+/4onmjW0=
+
+Name: content/tidy/help/en-US/tidy_24.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WO/3fxtuXJm+aRs5H9nTKQ==
+SHA1-Digest: Ji/C0IcVulICMyNluHNWIG5x/Hk=
+
+Name: content/tidy/help/en-US/tidy_25.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8vXoYnpWyKu146/wRV0DuA==
+SHA1-Digest: cyo7oDW12Upy8mteIdKJcyICafA=
+
+Name: content/tidy/help/en-US/tidy_27.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uhMicjFhl0ZHKgnfE7Kmxg==
+SHA1-Digest: ooXBVzQaFgxJmAVec4e5iiVOrUY=
+
+Name: content/tidy/help/en-US/tidy_29.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /DtICdw4m0rxlSO2BEbLFw==
+SHA1-Digest: uZA+8psg7Q2/KnSTKFWSF+Hrcr4=
+
+Name: content/tidy/help/en-US/tidy_3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LkxaVLpjXUlqmWOmMjqwzw==
+SHA1-Digest: OsjblBGSIic5I2GLiyZFLr3cqlU=
+
+Name: content/tidy/help/en-US/tidy_30.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LWE5DhCyInxd31/Tlvv0BA==
+SHA1-Digest: d1KfffKu/zVYbO8N/uap0vCe6R4=
+
+Name: content/tidy/help/en-US/tidy_31.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WZf/6qOeGqKNTmTpvimXlQ==
+SHA1-Digest: 8bi3cn3vDt7FGpMPa0HvufoJLio=
+
+Name: content/tidy/help/en-US/tidy_32.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: STYr3/7AjKVtj/aNXVYPtA==
+SHA1-Digest: SYU/m4auqREF6zPlEDPk09nWCgc=
+
+Name: content/tidy/help/en-US/tidy_37.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kBncZvEjGVG984rTTc3Khg==
+SHA1-Digest: XbOA7LyR4njbASASsDiEaQKl/6w=
+
+Name: content/tidy/help/en-US/tidy_4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9PScFl/9fGGe2l7ySNC90A==
+SHA1-Digest: pY3XK7wKYwGUQF7PQScE4Zve/Hs=
+
+Name: content/tidy/help/en-US/tidy_41.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G1nZ2n6lwmcFgN2FOz8hYA==
+SHA1-Digest: QSZsDiN7HzvPFt+AuKqgitxeU6k=
+
+Name: content/tidy/help/en-US/tidy_44.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EGK2EGgZ4TVYPgzJkoy7LA==
+SHA1-Digest: FRYgF4bwMBNNFnd547Eib5u+WWI=
+
+Name: content/tidy/help/en-US/tidy_45.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bZCAnhGBmLsnvFcOYPnWoA==
+SHA1-Digest: 61zgdsbpxogyIj6pf5I4Idv/AwE=
+
+Name: content/tidy/help/en-US/tidy_46.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z4jWxNL0QZMPO7vDs9x/RQ==
+SHA1-Digest: o4lgAJmrxzPTn5L5pfxpIp0namY=
+
+Name: content/tidy/help/en-US/tidy_49.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Y+8eB/FvjoB5G8NL/cYHGA==
+SHA1-Digest: 6XTsj6bIbIiuWx66eEauKWs34fM=
+
+Name: content/tidy/help/en-US/tidy_5.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: u4msgSRsTtxQFpKfzgo6+A==
+SHA1-Digest: 25edY4mwQEVQtxWWeFef0WqOAFs=
+
+Name: content/tidy/help/en-US/tidy_50.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ms9KfzL/f8WHVfYHf3f4CA==
+SHA1-Digest: tfllEZ+b6bY/WX6jXjHtF3Uchhg=
+
+Name: content/tidy/help/en-US/tidy_51.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: S/yI/z1gxEVOSEWqHYEsFg==
+SHA1-Digest: BJH0CvY8+KswhoAxRyJ5YEZGVvc=
+
+Name: content/tidy/help/en-US/tidy_52.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nnN3YphtQXSpUv7rmwXWkg==
+SHA1-Digest: hf8/S1NCdl1FyD/OD5MAU1E5m0I=
+
+Name: content/tidy/help/en-US/tidy_53.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: R8aTm9N1qaVfWh/qKGycGA==
+SHA1-Digest: w9LeifSsZHifmWJU38cRSIiJpz4=
+
+Name: content/tidy/help/en-US/tidy_54.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QsyegYPMgKoOzYVJr3KaXw==
+SHA1-Digest: X3r7/OYIHWEeBgr7fNysqwsFXY4=
+
+Name: content/tidy/help/en-US/tidy_55.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: n6vYjcDWVjCt+IWS+UeNPg==
+SHA1-Digest: +iC6kT9XgF/PyYSCGTU7yKS/BQY=
+
+Name: content/tidy/help/en-US/tidy_58.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JhKBLXI8lvNenO8FzuLy+g==
+SHA1-Digest: Xgrq4tQEj6keRDz4fY3F2xhqxF8=
+
+Name: content/tidy/help/en-US/tidy_59.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LvaCt4q4+6/GMM5fZxXf4w==
+SHA1-Digest: ONIUHf/W1GwqYcvdAPrWLJ1s2Ck=
+
+Name: content/tidy/help/en-US/tidy_6.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uuFRrlc+6sT4Nzdeq3y+1A==
+SHA1-Digest: FR+/tRDbftzbOkIM7UpXY93pYKY=
+
+Name: content/tidy/help/en-US/tidy_60.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KXMe7oiAunHnTpwHMsTTAQ==
+SHA1-Digest: /rMzatROPSKpfQE9maTVN6LXzxM=
+
+Name: content/tidy/help/en-US/tidy_61.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qLNiMWrbOuC14K8MCk7Bug==
+SHA1-Digest: B9YqWSeWTv27SY9XGo3iFWcVRNY=
+
+Name: content/tidy/help/en-US/tidy_62.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BG6GTiwPdg4N0z4cVYoMkw==
+SHA1-Digest: Y9qsxxTwqvvLsAhjEdYS0F47OJg=
+
+Name: content/tidy/help/en-US/tidy_64.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5RNMRkIqenU944uBDe7d/A==
+SHA1-Digest: I6heN11xQ8hLZj4svYwatbIh/os=
+
+Name: content/tidy/help/en-US/tidy_65.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SU65AdoRhjNLMMk43y0ZVw==
+SHA1-Digest: tS1SDWlU9hDCLeqeVL3hB0zbbFw=
+
+Name: content/tidy/help/en-US/tidy_66.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: w5eIYR4oQ1aKlLI4vlSxoA==
+SHA1-Digest: fmdH/C22r++12UDV7AZ8v4HVJPU=
+
+Name: content/tidy/help/en-US/tidy_68.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8ngktKGZqtlglYhG0IZA2w==
+SHA1-Digest: lrZWAYYdNa4WKKsoZoQIBMIlzW0=
+
+Name: content/tidy/help/en-US/tidy_7.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VPEftdTuVTomIggULe5Enw==
+SHA1-Digest: llVwDyZf+o2V10iYxqHaSfIdF3c=
+
+Name: content/tidy/help/en-US/tidy_70.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rzroE4Z8OIlfDNDdWu4HYQ==
+SHA1-Digest: Ug86RNH6zMXTphZVhkXyZjh4KKQ=
+
+Name: content/tidy/help/en-US/tidy_71.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FbPfQsmTn56tDUKCLIxQdg==
+SHA1-Digest: nmkTTrpMXZK2p4ydgVhgp2mDfBs=
+
+Name: content/tidy/help/en-US/tidy_73.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XbTKsIdiTXz44voIMruwYQ==
+SHA1-Digest: Sp2Wz44txcdCPvjDXiJyrpQ7x2M=
+
+Name: content/tidy/help/en-US/tidy_74.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: o5jqYMHnENTfC9EcW2C3vw==
+SHA1-Digest: dd/xnLhylVsGNEanSmPSIH8HgCo=
+
+Name: content/tidy/help/en-US/tidy_8.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MVhQ1Yle8iItsnbRU8SX2Q==
+SHA1-Digest: sqLv07v+wQ+IuPJhxxgIZe1yh9M=
+
+Name: content/tidy/help/en-US/tidy_82.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GeO4Qe3qKOCHLVwwvPuo1g==
+SHA1-Digest: HwSHbC9jYag0uhmmt6zJIN2M5tQ=
+
+Name: content/tidy/help/en-US/tidy_83.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qYwmhPwh/J2VWTz+PdeT9g==
+SHA1-Digest: U+73Rvv0SRvU5cu/swqWesQCJnc=
+
+Name: content/tidy/help/en-US/tidy_85.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YubEMKzq29sLrKyHxyYwVg==
+SHA1-Digest: irr/1yditKQ6tMfdzpWflF0RGG0=
+
+Name: content/tidy/help/en-US/tidy_86.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 88JS7e4syWxP22XsWH5bGw==
+SHA1-Digest: mkT8SjmZaRweMqqJBGh1UO4rIOk=
+
+Name: content/tidy/help/en-US/tidy_87.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EjlSjuKGH01vCywcfK3YPA==
+SHA1-Digest: 9eORChrfOR34Scc/f6M8w4t4lbE=
+
+Name: content/tidy/help/en-US/tidy_88.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SmanXO2kwzigg38UFiYjYA==
+SHA1-Digest: Ba6FpZOtBqFvOj3Fl7teSJQHpc0=
+
+Name: content/tidy/help/en-US/tidy_9.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6razbIOkjAvFQh5FTb8QKA==
+SHA1-Digest: cnbYqTIhwYyq03fzwhw90ehavOo=
+
+Name: content/tidy/help/en-US/tidy_errors.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kTuWvOjz1M36XjYSZWBVqg==
+SHA1-Digest: r+ez8Ylhc3Dn8Rd6wzm1d6QyxXk=
+
+Name: content/tidy/help/en-US/tidy_good.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: x4PaqJlA2BWMTbt5T78NdQ==
+SHA1-Digest: c7uizj26Ibds/JvxWSmV9J+SivY=
+
+Name: content/tidy/help/en-US/tidy_help.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PvOp698mKRjLpnfkTdh3Ug==
+SHA1-Digest: Ym8gd61J07hi4Yb+Refhd8TQZGg=
+
+Name: content/tidy/help/en-US/tidy_help2.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NpDSRwgGyjfrxYPXLOJvSQ==
+SHA1-Digest: X0UzDELym7amXd6atKc6p/L3k5A=
+
+Name: content/tidy/help/en-US/tidy_start.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Mhl1/bCYgNwYMuX2GlXBHw==
+SHA1-Digest: 6V1ZcF1NkSf7wA49N4wPYlxYOCk=
+
+Name: content/tidy/help/en-US/tidy_template.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yX5Z+blRIkYRp8oqUxiVlw==
+SHA1-Digest: mg7YyY5dtmo7KdgjneQEZV3MU3E=
+
+Name: content/tidy/help/en-US/tidy_tmpl.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DW3Wss39OKLO/NoPTpnBHA==
+SHA1-Digest: Mv5gifinSzw/Jzag9hOfpxE9b54=
+
+Name: content/tidy/help/fr-FR/access_1.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: giz7KyVhTGf7QsYxH4HBCA==
+SHA1-Digest: KXIGHzgwJ28rcaB8Tbk5x5l5rWM=
+
+Name: content/tidy/help/fr-FR/access_1.1.1.10.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jzaiToyD2EYSdI3Z4z+PIg==
+SHA1-Digest: NrBVB1ZOFseDT6iUl919otqDVoI=
+
+Name: content/tidy/help/fr-FR/access_1.1.1.11.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: obiL8EU3qIIKSvT33S++XQ==
+SHA1-Digest: BspPN+GfhSAiZOze5KTlbMaLrIY=
+
+Name: content/tidy/help/fr-FR/access_1.1.1.12.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /DTDGIeh9wJu25hcRMEJbQ==
+SHA1-Digest: 12IwtxUQE35fucEWFO3IrVJoyGI=
+
+Name: content/tidy/help/fr-FR/access_1.1.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8C2XvWF4dp0Op6Ty3PdC+w==
+SHA1-Digest: ARK0qMU9veWKFISw7ZFc43sSvII=
+
+Name: content/tidy/help/fr-FR/access_1.1.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0B+fCZdo8/RoK6vBJLZdlQ==
+SHA1-Digest: gn5Ng/oOUTcAJrrlhzc7End4sKg=
+
+Name: content/tidy/help/fr-FR/access_1.1.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PcfL+tSAIJ90DxcX4nmgEg==
+SHA1-Digest: h/vYIIhwDnPkLmuEdiRWktUjBFw=
+
+Name: content/tidy/help/fr-FR/access_1.1.10.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4TiiFmtWrWb87HALKIgRfw==
+SHA1-Digest: 996h/oUfSfSSCKiMOhBHvyxI2Ps=
+
+Name: content/tidy/help/fr-FR/access_1.1.12.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pipQcOR6OKFk39DKLD2cTg==
+SHA1-Digest: bOU1ZZko+6w92oWVC0/2NPeUoFc=
+
+Name: content/tidy/help/fr-FR/access_1.1.2.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7Zpv00KzNu/Yq/M8n2x9hw==
+SHA1-Digest: rIpDSp0qv6sATTDXjAFGuYUXRs4=
+
+Name: content/tidy/help/fr-FR/access_1.1.2.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iTjOmNmd5gfC95XI0JeIEw==
+SHA1-Digest: 3lyUD/7nSyK2F9PA2TP6e4w0RTg=
+
+Name: content/tidy/help/fr-FR/access_1.1.2.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FWsfaat1jy0K0cxHFjXwAQ==
+SHA1-Digest: irLC2+7eOQSI+XaE/bbP2xKQjBE=
+
+Name: content/tidy/help/fr-FR/access_1.1.3.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zOHMuoJyxJ/Cs0XXsKl3zw==
+SHA1-Digest: gJGz7ohO3o3rHboz/Ct/mAX/t3E=
+
+Name: content/tidy/help/fr-FR/access_1.1.4.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: N2an4wlmjNRlZRzkwl2EfQ==
+SHA1-Digest: p0pl2NcFE0hOQR5NwRTtu/SafiU=
+
+Name: content/tidy/help/fr-FR/access_1.1.5.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PKXGCAO3iWRoCH1Dzl4qBA==
+SHA1-Digest: 5YGLjdIGuxGo8ptZPlcrE1hjmW0=
+
+Name: content/tidy/help/fr-FR/access_1.1.6.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qgxB4sAaP1mOouvIqwuoXg==
+SHA1-Digest: vX76Gbv1r8NcZEKXT7ZWAZL37DA=
+
+Name: content/tidy/help/fr-FR/access_1.1.6.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: e/MpBINDP8PNIoHAT9Jzyg==
+SHA1-Digest: KTdY1KIKJ2MKPl3N8u+nN5yXoJM=
+
+Name: content/tidy/help/fr-FR/access_1.1.6.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 45joaOAyBYLwgIstOnavNg==
+SHA1-Digest: V1jnVsmRdKHvRx6TdFIaNx0VIEI=
+
+Name: content/tidy/help/fr-FR/access_1.1.6.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5AUaiIHU/R1KHmvMWRc6FQ==
+SHA1-Digest: 2Y4QzQtPl3/nFWBthHo/naC99ro=
+
+Name: content/tidy/help/fr-FR/access_1.1.6.5.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3x0mHBPCTq/xEivx4BE5Og==
+SHA1-Digest: ti1XneOmbm2wDjS3r4M8ryjKlmo=
+
+Name: content/tidy/help/fr-FR/access_1.1.6.6.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: n+/wNdBRmWxYLvhH8/Y3Rg==
+SHA1-Digest: 8oBzaBgEDDarw5SANLgAW/s6t9g=
+
+Name: content/tidy/help/fr-FR/access_1.1.8.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HwpfIxAB7/WAdKd3R2dcjg==
+SHA1-Digest: fS9QXVMacIt86/ah8UKDsNwbs8o=
+
+Name: content/tidy/help/fr-FR/access_1.1.9.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uR8jIsd4S9u43UoKeq7Naw==
+SHA1-Digest: U5BGCCl3jx3ze2Bl+2B346b3p6I=
+
+Name: content/tidy/help/fr-FR/access_1.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XqeQyLTTHJXRIMZi+X8R1A==
+SHA1-Digest: IC/1cCUsTbjfs4fVpdAvQtTZrrg=
+
+Name: content/tidy/help/fr-FR/access_1.4.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cGLVQUm6iv9123yZ9wtAmw==
+SHA1-Digest: lboyWqcAfw0SIV7oowdrCDttC+M=
+
+Name: content/tidy/help/fr-FR/access_1.5.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8+N0CgRHzBoOK8HA5ph1RQ==
+SHA1-Digest: 7auoA8PByKfECipfkLKNoRSNG0w=
+
+Name: content/tidy/help/fr-FR/access_10.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lYRMJqxcD89S976YzlcAcQ==
+SHA1-Digest: noHGLxUZy2R2xWah3SinC+zFKxY=
+
+Name: content/tidy/help/fr-FR/access_10.1.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2rTTKvuoEnOW47PHmga42g==
+SHA1-Digest: WtfOtI/y5YPzndsvcfH/dM/cfOg=
+
+Name: content/tidy/help/fr-FR/access_10.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5OuReqxkUFzxsxbzjLIHBg==
+SHA1-Digest: os0Ki8KF95zM8VKJ1n53IUwWDrs=
+
+Name: content/tidy/help/fr-FR/access_10.2.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mvimwTv+iKJ4ZJJlSb2gBQ==
+SHA1-Digest: qoraN9nZ9yhVPGdcjiFWUUJfU7o=
+
+Name: content/tidy/help/fr-FR/access_10.4.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 85G0D1e6BJKrJwVdvRyBSQ==
+SHA1-Digest: OqzDEvM/rIOU59QW9zAoAPjYyIo=
+
+Name: content/tidy/help/fr-FR/access_10.4.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: REFigS6f37hayfvjBGKxcQ==
+SHA1-Digest: j6Bmn6giN+AXT6bQ+ZO10RJOrQ0=
+
+Name: content/tidy/help/fr-FR/access_10.4.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4ckVN2uAEJhqa9yVJhRt9Q==
+SHA1-Digest: nu1LlJzkqdqAu8X2RBnHBgl4XjU=
+
+Name: content/tidy/help/fr-FR/access_11.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aZ+2eXOrXodpLKFWWYi/xQ==
+SHA1-Digest: Q1/hTg2tdQ3ey37HM3R+mzGcUL4=
+
+Name: content/tidy/help/fr-FR/access_11.2.1.10.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZZDDqZ/adYML9NRiJGXv6A==
+SHA1-Digest: yZ2jZS2eMHeNvl2FjWsyOUWDJ1s=
+
+Name: content/tidy/help/fr-FR/access_11.2.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HfcxB4XpALN9GK9UB/XHAA==
+SHA1-Digest: MCnwIkggalM8uag1sOl2BlIhOyM=
+
+Name: content/tidy/help/fr-FR/access_11.2.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VB5aManIQ4sT5YYVIGO/bg==
+SHA1-Digest: 49Iy/bts4ZW6KIIRojBeqUW7Dls=
+
+Name: content/tidy/help/fr-FR/access_11.2.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hfFeFh+Il8hLZTlRG8JBWg==
+SHA1-Digest: 6dVS1cKXR+ECWijDZVz4XV7sD2M=
+
+Name: content/tidy/help/fr-FR/access_11.2.1.5.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QyXXvOOUivMzWZ27RjEhWg==
+SHA1-Digest: qg1thRVMeFOUOepy+DfpKuuJBHQ=
+
+Name: content/tidy/help/fr-FR/access_11.2.1.6.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: td3gq5l2MkG7TfcskbDI3g==
+SHA1-Digest: W5lROBWbdGGRIJ46rob3BxavrS4=
+
+Name: content/tidy/help/fr-FR/access_11.2.1.7.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: C5MvdVSbdLuwWQeCHvzfAQ==
+SHA1-Digest: znvxPXUx4oqrEbp4MpTw2o7nUIU=
+
+Name: content/tidy/help/fr-FR/access_11.2.1.8.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HlV46yb+Z7H6a1L+F8/GOQ==
+SHA1-Digest: ftwPhGe3Frl22FcgA+UZ6YAGfEo=
+
+Name: content/tidy/help/fr-FR/access_11.2.1.9.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /X6tEQ75WGvxYiTatawYoQ==
+SHA1-Digest: bOHo/JVO60Y7Fq12YLj9xbvNN8E=
+
+Name: content/tidy/help/fr-FR/access_12.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NpxVHJCb3jyrY+pnYwDe9g==
+SHA1-Digest: TgEQhkilPoNLY6EaFI2CzhFuOyU=
+
+Name: content/tidy/help/fr-FR/access_12.1.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +wCJGA/B/4CczJ9BWuV6yQ==
+SHA1-Digest: /UGm1j2e4WVDYiJQ0TsVTVM/Ggw=
+
+Name: content/tidy/help/fr-FR/access_12.1.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oxawSsU9e1OtoJ88V5KLrg==
+SHA1-Digest: nlbfAkERlxVIFjtkEuy87oEDNpk=
+
+Name: content/tidy/help/fr-FR/access_12.4.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KQz9kxEmrv3evzMQDjUFXA==
+SHA1-Digest: YWI9bchFtHPlM7MnpbjadLDRS9U=
+
+Name: content/tidy/help/fr-FR/access_12.4.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: C+WQ2fFQmoMhOibOQTVTZQ==
+SHA1-Digest: PiGCC/xlkCDJaIxVrCtLHs0StzA=
+
+Name: content/tidy/help/fr-FR/access_12.4.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UXKFCA2m3F6I99DQOdBOrg==
+SHA1-Digest: WTRzdzj7vJLKAMbkkcjHcK45iaY=
+
+Name: content/tidy/help/fr-FR/access_13.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r+eyvz6RywWkpRZIUgFzRA==
+SHA1-Digest: MOB0cYQsVJn9qGVmwp4usHaqBB8=
+
+Name: content/tidy/help/fr-FR/access_13.1.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3S55cKAFAAxfrRRSRtE8ww==
+SHA1-Digest: 4K+CZgdi0M9emUlnNDEWNIVcW6Q=
+
+Name: content/tidy/help/fr-FR/access_13.1.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: H5Ccoe0BMuVPlQPQzdreBQ==
+SHA1-Digest: MZtU/MRQfD0O2pTJkPyUR7Y38Xk=
+
+Name: content/tidy/help/fr-FR/access_13.1.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EhaMxAI0aSRLxz3vwcZXHQ==
+SHA1-Digest: uILd8yDL3gTRoHJxEPOUwtLGfYs=
+
+Name: content/tidy/help/fr-FR/access_13.1.1.5.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ScMd6boCoH4Pw4xXTNcA9A==
+SHA1-Digest: tfnXSibhpLtTEB+2I63TKg8o6rk=
+
+Name: content/tidy/help/fr-FR/access_13.1.1.6.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iQfS8n+dCR62QkVFBa0N6g==
+SHA1-Digest: gc9zTeiGBPxcbhaklK8N2uV/KUs=
+
+Name: content/tidy/help/fr-FR/access_13.10.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UKhH+BNHEef+ZOSmVXeh1w==
+SHA1-Digest: tHHQe+JT2yACa6Ck7g7wv/JXi8s=
+
+Name: content/tidy/help/fr-FR/access_13.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1ZmxDd9tLzIvy9VwnALfEQ==
+SHA1-Digest: 8J5SZmHQNY5icOG9qmH86wHUxuI=
+
+Name: content/tidy/help/fr-FR/access_13.2.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9CLH3u/c1iwBkXsrFukFuw==
+SHA1-Digest: vrARfQAoZfIZx3XnONybF8cNQBE=
+
+Name: content/tidy/help/fr-FR/access_13.2.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pVnHQBtjJ2OZc1v9D4zTwQ==
+SHA1-Digest: h/qZUgjNAsq+GST1lNPpnMPrpV8=
+
+Name: content/tidy/help/fr-FR/access_2.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: M5XYKkK7DIFBobe038HjdA==
+SHA1-Digest: ORD8zzWcXkpO1RcHcU0tOKUECis=
+
+Name: content/tidy/help/fr-FR/access_2.1.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cFpjf0OuJyhIwG7N71njVw==
+SHA1-Digest: uTkn+JDgz27GRSNusAb9gZEEdIg=
+
+Name: content/tidy/help/fr-FR/access_2.1.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VmDlsiyFTkfhpN+yB0ivWg==
+SHA1-Digest: c+gSIw2jK1vKlMCmFOhudcBiX/Y=
+
+Name: content/tidy/help/fr-FR/access_2.1.1.5.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CJXYTOjpiUxFKjddMYcoRg==
+SHA1-Digest: zllIVHH/P82GJHWm7VRqI89V510=
+
+Name: content/tidy/help/fr-FR/access_2.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sorgFUCiWXynUiaR8Cye9Q==
+SHA1-Digest: vZATAKPbpnKuenjaXiq5Lwiy+7U=
+
+Name: content/tidy/help/fr-FR/access_2.2.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zsqPMZXhcUBRLJkLOtkfEg==
+SHA1-Digest: WrUafD+hDgkKiEYo/xYY6hDEnp8=
+
+Name: content/tidy/help/fr-FR/access_2.2.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: S/RJJyILAFi80C4E1cVFFg==
+SHA1-Digest: 0BTFsFPNFspjk09sOOfjbb0x1Gg=
+
+Name: content/tidy/help/fr-FR/access_2.2.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z/2J6Z6tzKc02olQPrUv8Q==
+SHA1-Digest: /UolwzwreU3aw1zmgneBBbP5XTk=
+
+Name: content/tidy/help/fr-FR/access_3.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ns7NWDuKWYrIKfMEh7MuRQ==
+SHA1-Digest: m3byCQMv+6qXbNUkvd3q0PvTfjI=
+
+Name: content/tidy/help/fr-FR/access_3.3.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xpgG9SRH9hXApkquU/jIsw==
+SHA1-Digest: XOJH27T+OGCKeQl8gRkL6oPr5Ak=
+
+Name: content/tidy/help/fr-FR/access_3.5.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cfQbKuxiqr4cxXO84xb7dw==
+SHA1-Digest: trcPrnOLv2b41wteV5rVxWhzJB4=
+
+Name: content/tidy/help/fr-FR/access_3.5.2.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dX3B4AbJpz5EQ/O3LT553A==
+SHA1-Digest: BlTlUH2bSvjzwgo2Rfm6AzRcbIg=
+
+Name: content/tidy/help/fr-FR/access_3.5.2.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ezMNvgjERNHXF8kdAOZjSw==
+SHA1-Digest: rEnJeH3+PnMsUS/U3By4MQCOw2A=
+
+Name: content/tidy/help/fr-FR/access_3.5.2.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c1VGBR5tzcZ1hZKKF44nLQ==
+SHA1-Digest: OPh4gmzZADZsqEx4PHn4PKRMwK8=
+
+Name: content/tidy/help/fr-FR/access_3.6.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sJQR0K3HzzXCr04+rCJcPg==
+SHA1-Digest: fAiDulSN179/oUmvElXx6SO+bJs=
+
+Name: content/tidy/help/fr-FR/access_3.6.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qfOUXM7M8acy/9H0YdSb+A==
+SHA1-Digest: EX1xg3SzSZbud2X2NDkyBIhPjdA=
+
+Name: content/tidy/help/fr-FR/access_3.6.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bLzKJTww4uadENWyIFn+Uw==
+SHA1-Digest: O5UTKtUt8v6GiqHV3B8bA8M2hAU=
+
+Name: content/tidy/help/fr-FR/access_4.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dU1rJUFvqQchklbOkScIzg==
+SHA1-Digest: SVtY5ZKxckOk4mOwBe2bKzZpfDA=
+
+Name: content/tidy/help/fr-FR/access_4.3.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +GQWlOrc2TuvjmYdIMmueQ==
+SHA1-Digest: /qtcinc38ZMfd1YtRKWjLbI1m+M=
+
+Name: content/tidy/help/fr-FR/access_4.3.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WLc0YyExitfc/tvWtY5ANA==
+SHA1-Digest: B5BbjZpPHU8jxz+fAZA4Ah5WQ+I=
+
+Name: content/tidy/help/fr-FR/access_5.1.2.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dpmfUiQEs5qRoJdxhzidKg==
+SHA1-Digest: LHSV453ldAuCA/Ws7HiMY/Tp7wQ=
+
+Name: content/tidy/help/fr-FR/access_5.1.2.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +B8+wEAjYnYcrj5O4H4Q2A==
+SHA1-Digest: AaKD8nPDNp8UnZmzRwtwTNwWIgA=
+
+Name: content/tidy/help/fr-FR/access_5.1.2.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aZmoyb19zyUZjoeheHS5Pw==
+SHA1-Digest: Y0tag1rEc03Tg2ROGXoDEdtUERY=
+
+Name: content/tidy/help/fr-FR/access_5.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2xm+0t4ctIYD4AxS7dyoew==
+SHA1-Digest: oZ6aR6f/OfRr1pNVbMlUyrZcw+k=
+
+Name: content/tidy/help/fr-FR/access_5.2.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5N8gxY1IMBbL4gjqXze6xA==
+SHA1-Digest: SEmg/1rB/CSiOQG3seh/N6ObI7s=
+
+Name: content/tidy/help/fr-FR/access_5.3.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aPi1PtlUbEKxvMJuW1R0zw==
+SHA1-Digest: cQNTIBXXRaCAOYSNrbbgFoMXk2o=
+
+Name: content/tidy/help/fr-FR/access_5.4.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: o10jD2oRl5yg/9KH6k7C0g==
+SHA1-Digest: YFIGCl/imVdswlB4o9gCIhaNnfw=
+
+Name: content/tidy/help/fr-FR/access_5.5.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b4GShiB6pBzBbyPMmA1uMg==
+SHA1-Digest: 5xf0i8ruYVFYPFcHHD+A9VIAYFo=
+
+Name: content/tidy/help/fr-FR/access_5.5.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: n5F9iGomwpvAknqllD7FJQ==
+SHA1-Digest: r6QnlcAslfBX32AKM8+Ebr5fLd0=
+
+Name: content/tidy/help/fr-FR/access_5.5.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0WAtpsexvvgbWuaf6LWELg==
+SHA1-Digest: RrryO/nVE90ItJcBf0HP+GmZCxU=
+
+Name: content/tidy/help/fr-FR/access_5.5.1.6.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JXubmMJziEvb2hmkKH7VPQ==
+SHA1-Digest: 6FuhlOJh/evlYWls1JYKDv3DtZc=
+
+Name: content/tidy/help/fr-FR/access_5.5.2.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Oh0kD+NkgylRUUekE4oQsA==
+SHA1-Digest: BZ7hyK7yNivTG+H14ZK+7GYWqfk=
+
+Name: content/tidy/help/fr-FR/access_5.6.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: X1FABOmaCscvZJ0w3ruWJA==
+SHA1-Digest: F/riwsOzHkrkfX1XQroJg0D9pHU=
+
+Name: content/tidy/help/fr-FR/access_5.6.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WlGOZY/hvUGiS8nIqOvZ0g==
+SHA1-Digest: rEEU2SUXRhxRSy1IQtR8uGQnPJM=
+
+Name: content/tidy/help/fr-FR/access_5.6.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: df38S2v4T59ps9W46Cc2YA==
+SHA1-Digest: AP++dvRIZCo5IvNCHtE2KeFZUnc=
+
+Name: content/tidy/help/fr-FR/access_6.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vANue+nX9aggFPxe2SG4HA==
+SHA1-Digest: mdez3OrfIeeZQ8hDWBEmAjDv6eY=
+
+Name: content/tidy/help/fr-FR/access_6.1.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7SozxnPMnPM0/klX/cfUVQ==
+SHA1-Digest: 3Vtn6rPD3es6m9V5om1Ov89SyRg=
+
+Name: content/tidy/help/fr-FR/access_6.1.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +BLmKHWe+MfmAoZ0w+GLYg==
+SHA1-Digest: b9jT6TIPIY3bBQNUuaYDZnOrnSk=
+
+Name: content/tidy/help/fr-FR/access_6.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Akuyxo2tpxeP3moav6vluQ==
+SHA1-Digest: wh2HiB7wMb3Qc5HNuMP3aykMjmA=
+
+Name: content/tidy/help/fr-FR/access_6.2.2.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AGmhGWuJBvcxCw1HfGHJcA==
+SHA1-Digest: KA54Gzi4ujt8F8hjtUlMBBbOZIg=
+
+Name: content/tidy/help/fr-FR/access_6.2.2.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: InaX4aYBKxwNAcFNEfeosw==
+SHA1-Digest: 6COUwPIugC1nF/DPEnlIUENxPlo=
+
+Name: content/tidy/help/fr-FR/access_6.2.2.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: m7CzbKVmunnXQyLMguFa4Q==
+SHA1-Digest: Xa/Qs+t8vmlcIGBCOltolNvRyKs=
+
+Name: content/tidy/help/fr-FR/access_6.3.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KG/VCo3QViUnwXo/9sddrw==
+SHA1-Digest: Z+sC8qnh/9eM8sZwbgh14sN4+fY=
+
+Name: content/tidy/help/fr-FR/access_6.3.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RRlXPKov+CEsg2C6ZeyFBA==
+SHA1-Digest: /U4xqqU1nqBiQTKM74yeDGstteM=
+
+Name: content/tidy/help/fr-FR/access_6.3.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DKTst95rB049Cx2bRfdqbQ==
+SHA1-Digest: lkSehHOV6Jt02FFANTgsUWLH9QE=
+
+Name: content/tidy/help/fr-FR/access_6.3.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: u1A5CoU0cM2g//DpJrZduA==
+SHA1-Digest: jjfJwoGTMUq9P8lpL+YdMLDbXng=
+
+Name: content/tidy/help/fr-FR/access_6.5.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z6+g6uT7x5OKCJFwEA6+0w==
+SHA1-Digest: CP8qihbRkQWfrCPjMMstxzW2vJk=
+
+Name: content/tidy/help/fr-FR/access_6.5.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CuvA5ImajtMoyQtIIk9LWg==
+SHA1-Digest: 7sDWHVAJ3Yji2NiAfcXDIlCABRY=
+
+Name: content/tidy/help/fr-FR/access_6.5.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IdKv15WQw5Gy3Jz81xqVIA==
+SHA1-Digest: lcoIk0V2I3Yy32ZF3lVVOkxARLU=
+
+Name: content/tidy/help/fr-FR/access_6.5.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G6o87QSEfc14LoR5z97HGg==
+SHA1-Digest: sxehtKN9EbJiiahOuMQKom4/VSg=
+
+Name: content/tidy/help/fr-FR/access_7.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hL7SKKafxB8Uru+pZ0Ahsg==
+SHA1-Digest: +seC7jQX8ws38ljwxyZPtOkaWP8=
+
+Name: content/tidy/help/fr-FR/access_7.1.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QKfi8LY4zcR3DdRTWJWy7Q==
+SHA1-Digest: B07sFvg3GiMc/vlJVlQcqJc5LxE=
+
+Name: content/tidy/help/fr-FR/access_7.1.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5Ns6FqZnkRqhTN9LwM1v4A==
+SHA1-Digest: yDKLffQ+K7SmINTYDDDpQuJoUSs=
+
+Name: content/tidy/help/fr-FR/access_7.1.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fqNtAD+yo24MD085RCCN8A==
+SHA1-Digest: deyPvN+S8DU/A8v5AS7lnLp88YM=
+
+Name: content/tidy/help/fr-FR/access_7.1.1.5.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kxbADPGiFN2Ekqb/YMw55A==
+SHA1-Digest: vGbk+7wofJzg1PrVnDMZUuNRWw0=
+
+Name: content/tidy/help/fr-FR/access_7.2.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XjAKvou5fOhlLd30ihnBog==
+SHA1-Digest: vaJuSI+1QgMhy5VtUQQLpDQGmTY=
+
+Name: content/tidy/help/fr-FR/access_7.4.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lQo+EUD/4cTIpnmxEOQd5g==
+SHA1-Digest: W5nQwPpDHQjJw5/dO7EjTIjucoA=
+
+Name: content/tidy/help/fr-FR/access_7.5.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /vPg6QFiIwLpx0nJL9Mykw==
+SHA1-Digest: lz5s1kdO8QhAK1M367owiwUhtWo=
+
+Name: content/tidy/help/fr-FR/access_8.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s2Yd59y7nFKGe56BoVw9aA==
+SHA1-Digest: QJScbZI9bA90Vc15Cgz53J5JQfk=
+
+Name: content/tidy/help/fr-FR/access_8.1.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LU3g2Wsgdq6WjK5vuH6nrQ==
+SHA1-Digest: cv//vW/RVUhJ3IUE9j3LXxlBoKc=
+
+Name: content/tidy/help/fr-FR/access_8.1.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xNKizgL0bLfenOUYfI8hjw==
+SHA1-Digest: pk/IMh1Byiy3KfgSlMRLJ493KZM=
+
+Name: content/tidy/help/fr-FR/access_8.1.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6WYQm3avcHzIMFCT1KzoUQ==
+SHA1-Digest: AORDMbgrfxvV9dcRrSreoPTrTSA=
+
+Name: content/tidy/help/fr-FR/access_9.1.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wkg4jibE4CNA1Z08LClvtw==
+SHA1-Digest: pydZYJlQjfBlqP3DiOS1X2PCL3c=
+
+Name: content/tidy/help/fr-FR/access_9.3.1.1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VNBmgRYrqyWuCpsAIiLhig==
+SHA1-Digest: p9h1TliXTF0VZC4134yxMtFIwdA=
+
+Name: content/tidy/help/fr-FR/access_9.3.1.2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YmpXO6P9TqvOeCozPtgJYw==
+SHA1-Digest: bcVfYApObafKYDV+CcgMdBNPxs0=
+
+Name: content/tidy/help/fr-FR/access_9.3.1.3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AAbD+O9KBpUWQYR527+fNw==
+SHA1-Digest: JTNxck2yT/5MKITy9xTlkk3uxKc=
+
+Name: content/tidy/help/fr-FR/access_9.3.1.4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AglVefsqrt03jAyF7oNt4Q==
+SHA1-Digest: xdxrsUlLY1AaooxZAr/XdayTTWQ=
+
+Name: content/tidy/help/fr-FR/access_9.3.1.5.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gTH9PNx9Oa8YV1a+9hlk9g==
+SHA1-Digest: JxqiwVtKvzT3rsk9KOidoZjSV78=
+
+Name: content/tidy/help/fr-FR/access_9.3.1.6.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5TSDw87DWqvgtFYxD4S/vw==
+SHA1-Digest: +OlTjfM2jjj+rLeE+LZdzmHbEI0=
+
+Name: content/tidy/help/fr-FR/algorithm.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VGGAHMNw5u/RLTpCe7uifA==
+SHA1-Digest: CKeQw9X5tqMlAOQdAvmjemHr0vo=
+
+Name: content/tidy/help/fr-FR/info.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rhx+Olbqrcq3hlxsgySb8w==
+SHA1-Digest: Pc3TGaNnZfZNopfSAc73R4zNoYQ=
+
+Name: content/tidy/help/fr-FR/no_help.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mKEesFifPIP3b8lhAQVcHA==
+SHA1-Digest: iEv3G63Mfy1oPRIlHGouBKPoFjE=
+
+Name: content/tidy/help/fr-FR/serial_good.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /HAslphrR9ZA+B7l+yVsLQ==
+SHA1-Digest: 0kDye9U7lSSx7RMMu6S0KMlbAk0=
+
+Name: content/tidy/help/fr-FR/sp_105.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DxFpRbI6dV6WNBMV68WYcQ==
+SHA1-Digest: GlGLhtxXvF5r2Ow+1gN5Hi7TypQ=
+
+Name: content/tidy/help/fr-FR/sp_106.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a4f0EULRTgSIDqv+kj463A==
+SHA1-Digest: 5VMevIi1rp8rvzeuj3QS9LhHs2g=
+
+Name: content/tidy/help/fr-FR/sp_107.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gNmxvAIL62FUa0v2PiR+3Q==
+SHA1-Digest: WPZBmfBqk1vr6kW3/rdf4+GF2TU=
+
+Name: content/tidy/help/fr-FR/sp_108.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cgk2pYr0mVAkNVdqTgSPdA==
+SHA1-Digest: LZjoqvY+ZaE+4B0lUxIBUljfAkM=
+
+Name: content/tidy/help/fr-FR/sp_111.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SF5J71skvC/mNeAcu+9XAw==
+SHA1-Digest: 1t7oHUShvCUjMXuIJKoM6uWsWIk=
+
+Name: content/tidy/help/fr-FR/sp_112.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UoFbXVZRnfYvNZsInl85EA==
+SHA1-Digest: jc+XFugX7ftpyFmN7dgN6e0mJV8=
+
+Name: content/tidy/help/fr-FR/sp_121.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: m3z1k+I93cohJVuoW0+fLw==
+SHA1-Digest: uHy2uMdXfCRuK8N92RcceAuTbP8=
+
+Name: content/tidy/help/fr-FR/sp_122.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bJAVeZ6pVgqCFfue3LEOcw==
+SHA1-Digest: m6cMeqyXGYcpTI5LPtF8WLjZ4Rg=
+
+Name: content/tidy/help/fr-FR/sp_123.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tX2BtddxJVj21TSM4WC24w==
+SHA1-Digest: 8GB9SLVcE89lAzHA67oucle3hx8=
+
+Name: content/tidy/help/fr-FR/sp_124.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bHT6YYuTm35FyH7sxQQMmw==
+SHA1-Digest: Ih5qvZ++vHz/nfnCGMeovfNLzV8=
+
+Name: content/tidy/help/fr-FR/sp_125.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2HGAuY3DLIcVUc8NyqXHUw==
+SHA1-Digest: 03yOKFID8goml6vGYjXzzavdvcA=
+
+Name: content/tidy/help/fr-FR/sp_127.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sqfHEuboTKUZVWu9eEU88w==
+SHA1-Digest: /XmYYQxJiBqT90Vd3oZLi3Dc/po=
+
+Name: content/tidy/help/fr-FR/sp_139.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jIeJd9rHBTySVEf8VT/c5Q==
+SHA1-Digest: 4CNdl9IC+lFoCJf96P5DB8ilocY=
+
+Name: content/tidy/help/fr-FR/sp_141.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sopU86TH5zyec2aOz6QmVQ==
+SHA1-Digest: YHmRiXhTE9uiUM3XIQ3LaFY+Ugk=
+
+Name: content/tidy/help/fr-FR/sp_15.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cXN9uZyCIqrJIxgyea5epA==
+SHA1-Digest: x+QzI28OuvGoMdXBMSlnK2faJyY=
+
+Name: content/tidy/help/fr-FR/sp_183.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: h6dmlB1jZAgdXmJcbalroA==
+SHA1-Digest: fhUP4J2YuG0AWBSPzqLVhQ5VyVw=
+
+Name: content/tidy/help/fr-FR/sp_187.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YtE0uX5yyGVgOlb/vSRGrg==
+SHA1-Digest: 0GdcFscBrwjObsyNk7TT30AjvwE=
+
+Name: content/tidy/help/fr-FR/sp_2317.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Dgf1vg0flSeO9lXNqKR/eg==
+SHA1-Digest: uA+CIYzklmQfdHZ++JCQcoeR9d0=
+
+Name: content/tidy/help/fr-FR/sp_247.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 11HVPohBLIaGq6R069gdMg==
+SHA1-Digest: X+LUXQLZplpzW3JP8dcf175YBbw=
+
+Name: content/tidy/help/fr-FR/sp_249.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7Nln/AbEAdwecz8JdLtNfw==
+SHA1-Digest: FvqGgU2zUtYMm6PaunChClxm3Kg=
+
+Name: content/tidy/help/fr-FR/sp_25.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WLwr8TrYNXpsVIsT+U/1Fg==
+SHA1-Digest: 6NJk6Iqrr47XEAEc+ixHLaAYjUg=
+
+Name: content/tidy/help/fr-FR/sp_257.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xyjByd5/1Gnel9sw3ZZcig==
+SHA1-Digest: x+YNjFEPQEGKt6WHYz5+83XSnsY=
+
+Name: content/tidy/help/fr-FR/sp_28.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gmhTUbtOzCKAwQK/rDpqYw==
+SHA1-Digest: mCxBYSdiXCPiQdPfukN8rcwjJPw=
+
+Name: content/tidy/help/fr-FR/sp_306.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: x0Fg3x+aQ3IwOG8Zfc3dsQ==
+SHA1-Digest: 0Nkwnr454AaYMh7S+5B0y2A3DKE=
+
+Name: content/tidy/help/fr-FR/sp_323.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MaYnRzFYwiQb8ZB7krboZg==
+SHA1-Digest: SHTYnBrgDXLxKCEDVEfbR8OQefc=
+
+Name: content/tidy/help/fr-FR/sp_325.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zjT/qTGRnYigSBHGgNQcdg==
+SHA1-Digest: X1LRTtqvihRJJ0X3zjuGGGf46ic=
+
+Name: content/tidy/help/fr-FR/sp_338.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zjT/qTGRnYigSBHGgNQcdg==
+SHA1-Digest: X1LRTtqvihRJJ0X3zjuGGGf46ic=
+
+Name: content/tidy/help/fr-FR/sp_344.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pNwiTfRVZUfMMLWJenXCiw==
+SHA1-Digest: QxfKkJ48eCVH/7+rHvwIXFAFH8c=
+
+Name: content/tidy/help/fr-FR/sp_378.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1nzyn2Yur8cq93LoibtL4g==
+SHA1-Digest: gvJ4lg4s+b4AgpCijZnPjgPFQMQ=
+
+Name: content/tidy/help/fr-FR/sp_38.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jEkfRCS7+OgVps3oPxneSA==
+SHA1-Digest: fud1pG3jEFnaY8ZTDJYeI/s79RE=
+
+Name: content/tidy/help/fr-FR/sp_387.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SEDo+cEo2CJoqbqu6j6XQQ==
+SHA1-Digest: 8ojJiCnJXwlyRy5mbYujsOCWZnU=
+
+Name: content/tidy/help/fr-FR/sp_394.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PodABXYxG5LZelcfGpao3A==
+SHA1-Digest: BsASaNfJSY71bTSGNO2z+DW18nA=
+
+Name: content/tidy/help/fr-FR/sp_403.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SpKE2iUbqCl9ZUB5hamG2w==
+SHA1-Digest: GPVoH0pYJdarsacpqcHGHyWA+Pg=
+
+Name: content/tidy/help/fr-FR/sp_404.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: P0srYuTETbPN1U7mawKcIQ==
+SHA1-Digest: ADGTGogEdMnZg/CwffFyfvK+5M0=
+
+Name: content/tidy/help/fr-FR/sp_407.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UV44I0NW/MWnXkoRUjSHmw==
+SHA1-Digest: QWVJi22dJiHwnN8hasUD1QX5t5c=
+
+Name: content/tidy/help/fr-FR/sp_410.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Mf8s8SLHB0phFaVPvFSQXA==
+SHA1-Digest: lDiki9U5yXDUa/qCBmnGOm2xtaA=
+
+Name: content/tidy/help/fr-FR/sp_42.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: f2nqaKqDopitPwmKUCJlkw==
+SHA1-Digest: 9goImMq8eAys5I/tTtOntlP+1JM=
+
+Name: content/tidy/help/fr-FR/sp_46.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: u4EY+SfvFRYzcP0ovS2mIQ==
+SHA1-Digest: dcVDyoMN9+jusNgrRyyuL5yOz+A=
+
+Name: content/tidy/help/fr-FR/sp_47.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YQ6FHvPEHPKCqDQM6ompgQ==
+SHA1-Digest: SLLcNcD52GaXQ7jqOfT/Z7gAAAY=
+
+Name: content/tidy/help/fr-FR/sp_53.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tybLkLNOCrxmWpqaD9sxLw==
+SHA1-Digest: f/pa1p61lCWyq7y3DEN0koAvJHg=
+
+Name: content/tidy/help/fr-FR/sp_62.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ambMyfsD/uizw6zwjYfNNw==
+SHA1-Digest: c/o2j5BT5K5TY1/jVK8KUc2YOMA=
+
+Name: content/tidy/help/fr-FR/sp_63.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1MJmpJIiHGQEvegMJqX6dg==
+SHA1-Digest: rqIt7ARzANuF/FYQ1lPBRzfNCrw=
+
+Name: content/tidy/help/fr-FR/sp_64.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LXC26bLKayYLrrJRXJI8RA==
+SHA1-Digest: ipzXZAvohcNRgwoU5+JMa26E1DI=
+
+Name: content/tidy/help/fr-FR/sp_65.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: j/1ZzosaefkvSf0tL/j5vg==
+SHA1-Digest: UtGQ3VL0VMlCH0Ux2K22/nkXR60=
+
+Name: content/tidy/help/fr-FR/sp_68.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: V+Su31THo5pUdDNELAPNYQ==
+SHA1-Digest: H/R6hP33xOuF7pQBqm/jBKL5YT8=
+
+Name: content/tidy/help/fr-FR/sp_69.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sgtTZ4NrYXvCkEzCIhcbpw==
+SHA1-Digest: gWmvKB6XVecI3F4jPdsan62emT8=
+
+Name: content/tidy/help/fr-FR/sp_70.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OregcZbtJAv38+q+gJkaZw==
+SHA1-Digest: 7FrktSqOeLyHT8LqYlduGPg10PY=
+
+Name: content/tidy/help/fr-FR/sp_71.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sgtTZ4NrYXvCkEzCIhcbpw==
+SHA1-Digest: gWmvKB6XVecI3F4jPdsan62emT8=
+
+Name: content/tidy/help/fr-FR/sp_73.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yaI+3f5vGiZEt4levt6xRg==
+SHA1-Digest: 84AUMHb9kpyCjLLUQqwe/kC2aIw=
+
+Name: content/tidy/help/fr-FR/sp_74.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2DnGbE0wwrocVcJjDEboLQ==
+SHA1-Digest: aB3tr7JVo6M8TQruLbshc+uIHec=
+
+Name: content/tidy/help/fr-FR/sp_76.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: owjd3FGafJgZltHleQW50g==
+SHA1-Digest: 68iBcgmT+/uhUc/i8X6nH1aR5yY=
+
+Name: content/tidy/help/fr-FR/sp_78.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ISsoqusQ86KtsJ3TxwWA4Q==
+SHA1-Digest: SrUzmHBat1KMnOPtf1UhIkMDoxI=
+
+Name: content/tidy/help/fr-FR/sp_79.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rMFDR8dxeCcM0F+ZwRligQ==
+SHA1-Digest: R+THcX++fMjOdMmwcxxImRfoyyM=
+
+Name: content/tidy/help/fr-FR/sp_start.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8ll/MRgfXkwqhGDT1hAx2w==
+SHA1-Digest: B2c1oPnvedabP0vjDJCiXRN8tgk=
+
+Name: content/tidy/help/fr-FR/tidy_1.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YOm4g2ZK1/cJDETYDDPXdg==
+SHA1-Digest: gl8fM2It9XUZi5QT3EYKz+R50Fc=
+
+Name: content/tidy/help/fr-FR/tidy_10.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QYpPBgLjuRqX+aNsFWbSzw==
+SHA1-Digest: Bsq2FNQlVMKCHvnNvGYJqXQZQjU=
+
+Name: content/tidy/help/fr-FR/tidy_11.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CrokN+/luXShPLqeCBWzVQ==
+SHA1-Digest: qp5vy62X9HCX8ohQ1MwqRc59TKU=
+
+Name: content/tidy/help/fr-FR/tidy_12.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: srPiDPRFMwBMaKzqy7n64A==
+SHA1-Digest: fjck4Bj4YgdTyJhG7ofezGN6cgA=
+
+Name: content/tidy/help/fr-FR/tidy_13.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tsQXAr+8RiY8aNIOGJaIEg==
+SHA1-Digest: /H8X7XepAZ8wODu2BklX6bBrfIU=
+
+Name: content/tidy/help/fr-FR/tidy_14.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c1KdwmKAE+BpqSeXf7LcMw==
+SHA1-Digest: pxET+FOeQ0zdsQrKF5iWV93kshA=
+
+Name: content/tidy/help/fr-FR/tidy_15.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: l92bXIcuYvWG4EnONeCFgw==
+SHA1-Digest: gJQ0eHHdOGQR7K3FPrPwpFSsktU=
+
+Name: content/tidy/help/fr-FR/tidy_16.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z88b3ZFCtSDyYV67aOXoaQ==
+SHA1-Digest: 2un3Zhv+zkmEHAL9Izirw1qVm8Y=
+
+Name: content/tidy/help/fr-FR/tidy_17.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WPeVKDkRys26rJJI3JWmnA==
+SHA1-Digest: SA2/eRDe+nYtPZ9fIFvnPr2ybvQ=
+
+Name: content/tidy/help/fr-FR/tidy_18.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eUT42HkMwaOiHJZlksPySg==
+SHA1-Digest: e5Rpvsv0mA69+FU27RdjDm5RJic=
+
+Name: content/tidy/help/fr-FR/tidy_19.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aFVEeh44ePsQmGE4RTZOBA==
+SHA1-Digest: bcyjSTIaROVn68/OS7r5CQx0SOU=
+
+Name: content/tidy/help/fr-FR/tidy_2.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VoFy9T2C8/J5gHh7vszcug==
+SHA1-Digest: +PwyV7/7Lv7BA0WD2Qc3uXB3fI8=
+
+Name: content/tidy/help/fr-FR/tidy_21.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DX6ywNMJUJCUAaJ0E7bsag==
+SHA1-Digest: awJJZ0K/kdJpCJISj1Pk+ZdzdEQ=
+
+Name: content/tidy/help/fr-FR/tidy_22.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 549LR6SY4xtA8dQtEocD5A==
+SHA1-Digest: RyZ53roMtY8jHmQtP4itnOpowBc=
+
+Name: content/tidy/help/fr-FR/tidy_23.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7yYNfg4ns5DzEM9d4Z/LmQ==
+SHA1-Digest: GodLERm4jqS8T8illOGA13FCo+Y=
+
+Name: content/tidy/help/fr-FR/tidy_24.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zG3xvVAnbH+1S0p7LcI9rA==
+SHA1-Digest: 8GwoCZ/+Q3qvGFmEnWKT2t8Iqco=
+
+Name: content/tidy/help/fr-FR/tidy_25.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tTHRJh2F6RijHzvzQquWUA==
+SHA1-Digest: ld0W6B4+1EyDNFn632gwu2Y2nJ0=
+
+Name: content/tidy/help/fr-FR/tidy_26.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UYOW05vgvlk3ZFKHIw6YjQ==
+SHA1-Digest: abwcJyOpodFOE/PsnQESVfDN5PE=
+
+Name: content/tidy/help/fr-FR/tidy_27.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: plqvr+otqHLWt/HU+jNMHw==
+SHA1-Digest: 2eBy5Wx/ij5TcvOrtL8ecWThV8c=
+
+Name: content/tidy/help/fr-FR/tidy_28.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: p735kJuivYLwvoirUed+5w==
+SHA1-Digest: l0Do4aNTYhVpQzGmP3sHwOmbIb0=
+
+Name: content/tidy/help/fr-FR/tidy_29.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Wv1qlmbTfISGeHZoRY6qQA==
+SHA1-Digest: y+6lQysiqGcb1ID1T5Mv0/jBhvo=
+
+Name: content/tidy/help/fr-FR/tidy_3.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RPx4kdLeBxQbEMMseL/G4w==
+SHA1-Digest: LdA9PdGu3NXA6HPUbvN1ZYCHwTc=
+
+Name: content/tidy/help/fr-FR/tidy_30.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bX6w0+jDocGTFD7umdhqnQ==
+SHA1-Digest: vZ8lH90XK03H/jiedE3URpBZse4=
+
+Name: content/tidy/help/fr-FR/tidy_31.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Vuj9uN9X2cALGfXsua8zpg==
+SHA1-Digest: GgwRb9MhzuVJyC/+zDwjGBGI6v4=
+
+Name: content/tidy/help/fr-FR/tidy_32.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aqBC4VnQi6fYBbtlhBXfHA==
+SHA1-Digest: BrMLoJ7V0MYVgCYBKFGgPzqERmY=
+
+Name: content/tidy/help/fr-FR/tidy_33.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7eCfTpoaTKRii7geoSiN9A==
+SHA1-Digest: AwKMX/ho1U+f2ez+3+q6VKPNAew=
+
+Name: content/tidy/help/fr-FR/tidy_34.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MVEUFHNDIe/skT0st5wFRA==
+SHA1-Digest: Xb1rJzqihzaAn8539tIq5NkXCss=
+
+Name: content/tidy/help/fr-FR/tidy_35.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8jVnIbagMih2vzUJcIFBeg==
+SHA1-Digest: o8jtKZib89nGkGAoixRTPQ+0wfs=
+
+Name: content/tidy/help/fr-FR/tidy_37.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bsIhp11e+airSfH94mRZCA==
+SHA1-Digest: TMcvAw9zv0hSQkF0kf3cRaMCXMc=
+
+Name: content/tidy/help/fr-FR/tidy_4.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7w+B3qjYjXe5h1PIMCGipA==
+SHA1-Digest: OczMhuKOAa55VBhc0VuGp/0J6pI=
+
+Name: content/tidy/help/fr-FR/tidy_41.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LKHlcTNXm8Q4lPsjgJPP+A==
+SHA1-Digest: VFYt6ctfr1RXoYLsIEA2n1q7v38=
+
+Name: content/tidy/help/fr-FR/tidy_42.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zpZfIlFIUNDN1HEw5zy7SQ==
+SHA1-Digest: vTgF9jMLTj+BleOMDt/pHqpbtUc=
+
+Name: content/tidy/help/fr-FR/tidy_44.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8FikMycaA8w2N5gmvg2lHQ==
+SHA1-Digest: 5UAAdFc8ELm0KS6gq/eEnmWRvXM=
+
+Name: content/tidy/help/fr-FR/tidy_46.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5GtQmoP9tmY5xcS9eeb9bw==
+SHA1-Digest: KnHo5nrbs3Le04NYPwwt5BwocGQ=
+
+Name: content/tidy/help/fr-FR/tidy_48.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: D/H46CjltGBZf5ugT6d3Ug==
+SHA1-Digest: aaCZHDJxdEbwDM53erqiQ7iiGII=
+
+Name: content/tidy/help/fr-FR/tidy_49.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rBJvF02YyxtokjGmKSCE/A==
+SHA1-Digest: ODCBD1OVIN8p0uKvlaua9HzUREM=
+
+Name: content/tidy/help/fr-FR/tidy_50.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Jk5cISbtJxXksT2NVofdXw==
+SHA1-Digest: 22JaPlQNpdG+/3p8PxdM+Kcm2gw=
+
+Name: content/tidy/help/fr-FR/tidy_51.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xWvidNN4itKxccp8/2P+OQ==
+SHA1-Digest: Kz5WaV3cdczzErK6QwkJa3W91Sg=
+
+Name: content/tidy/help/fr-FR/tidy_52.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8NRT7NVFCoIfzcWIaoHPLg==
+SHA1-Digest: rF//G1AKGoUN71hBMpEU/zkVQvM=
+
+Name: content/tidy/help/fr-FR/tidy_53.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kMxy7Itkkva2eBLY5sKJYQ==
+SHA1-Digest: Dc1vDFw/5MtSAeydmsQzQ0gLzWw=
+
+Name: content/tidy/help/fr-FR/tidy_54.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BFAa5k9AseYFNDSbJrBiNA==
+SHA1-Digest: ynqrd4lTilh1ph6AeZ7fQXZWr4w=
+
+Name: content/tidy/help/fr-FR/tidy_55.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /rLADH6oAVfRGDRm/WObrQ==
+SHA1-Digest: xJvsJjvDoqVXETmzW1Sx1hZaw08=
+
+Name: content/tidy/help/fr-FR/tidy_56.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7R9wZ26OD+dYR0YeHLJGfQ==
+SHA1-Digest: IinYVD87bQzceGg8Z1Vv4tef0no=
+
+Name: content/tidy/help/fr-FR/tidy_57.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uLj2GR1nEeuzwBylh2B9Jg==
+SHA1-Digest: aJKvVMwyHW6r7kWPxQkDGynA4yA=
+
+Name: content/tidy/help/fr-FR/tidy_58.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0E3GnPifspB64KtN5+ewyA==
+SHA1-Digest: WwGKss4WvBtquXLvy3m0g53xZuQ=
+
+Name: content/tidy/help/fr-FR/tidy_59.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: U07iiIKkzdMhjUFGVytLMA==
+SHA1-Digest: eRVSZGjLBVj+kypgaiffHGdO6Wg=
+
+Name: content/tidy/help/fr-FR/tidy_6.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: J+x+CgHY0Sl/WxIs6rnPoQ==
+SHA1-Digest: JYD/4l1cG1/9Eu5RB+z1JER0Lt4=
+
+Name: content/tidy/help/fr-FR/tidy_60.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GeN0KggI4eXVU+3DZOGzLQ==
+SHA1-Digest: jiyNvITPrkUgV75EXo+wmbMo6wE=
+
+Name: content/tidy/help/fr-FR/tidy_63.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jW53gXThM/S9kbIqC4b2uQ==
+SHA1-Digest: tGinUyT03O1zQErf/ZLnCVYCfcM=
+
+Name: content/tidy/help/fr-FR/tidy_64.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SEzkCIEspvo5o0IEnYBhdA==
+SHA1-Digest: wQKEuaxZoyL+gKtwnKkHs1K9mJs=
+
+Name: content/tidy/help/fr-FR/tidy_65.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JvzI/SWk5SLQNOnwqfcW+A==
+SHA1-Digest: wYYK+WueKCB8qnQwkJZVw/qaa6Q=
+
+Name: content/tidy/help/fr-FR/tidy_66.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tro5xH6dJxAuBcuVmq4FFQ==
+SHA1-Digest: baqNV9XIiT5EyrjMZHieU5PtjaE=
+
+Name: content/tidy/help/fr-FR/tidy_68.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: If9SpFxLs9xOWbvTXSMh9Q==
+SHA1-Digest: nFodifVTIY67GjIUH3FXLtsVF3s=
+
+Name: content/tidy/help/fr-FR/tidy_7.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1/nugCfS42xuAEkVGXnU5A==
+SHA1-Digest: ZSJqffEPV3mOh2b/u8/krEDxYkE=
+
+Name: content/tidy/help/fr-FR/tidy_8.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UdXNyjEfd65B/F/sT+SXfA==
+SHA1-Digest: 9U7iMRcAqhsiAIZ1D3yHoOPN8M0=
+
+Name: content/tidy/help/fr-FR/tidy_88.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FBXkNCAawOU4bCe1u5Ui/Q==
+SHA1-Digest: YoBkC6Qkbzv5plqerl4lPe9lJVM=
+
+Name: content/tidy/help/fr-FR/tidy_9.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RH4iolQPnOV2psaSgP1FRA==
+SHA1-Digest: PjeFjlfjdzYNkYjU5oingVYS0QY=
+
+Name: content/tidy/help/fr-FR/tidy_blank.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2ZPfMqhR2YhMRVbL8tlvTA==
+SHA1-Digest: LBvUb5dk7w4iI9+UfvZMmG6Zqi8=
+
+Name: content/tidy/help/fr-FR/tidy_good.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /HAslphrR9ZA+B7l+yVsLQ==
+SHA1-Digest: 0kDye9U7lSSx7RMMu6S0KMlbAk0=
+
+Name: content/tidy/help/fr-FR/tidy_help.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wc8fkshjx+MKm9yr0nrAOQ==
+SHA1-Digest: Hg4XM+CJWWjdp5McT7LNcw9YJng=
+
+Name: content/tidy/help/fr-FR/tidy_help2.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NpDSRwgGyjfrxYPXLOJvSQ==
+SHA1-Digest: X0UzDELym7amXd6atKc6p/L3k5A=
+
+Name: content/tidy/help/fr-FR/tidy_start.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /HAslphrR9ZA+B7l+yVsLQ==
+SHA1-Digest: 0kDye9U7lSSx7RMMu6S0KMlbAk0=
+
+Name: locale/add_translation.sh
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: w8OWdkiRDK8lpQZCwTu11A==
+SHA1-Digest: tkUhxHiZD8kNhEbQtHU6+tG+S1k=
+
+Name: locale/to_add.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +omcdKuWO/XhmeMT5I4AuQ==
+SHA1-Digest: mkyy3VsVaucVWjLoGHifm6KlEeM=
+
+Name: locale/cs-CZ/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qapjPWZbaCQf4oHdheWGlw==
+SHA1-Digest: IfyQCIu9uswg7gLzXnCprkgLyFg=
+
+Name: locale/cs-CZ/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YAIlWl01+43v+1cTxQTlhA==
+SHA1-Digest: gS8dvBlB3iJ1K2B0QojMYlMSKbk=
+
+Name: locale/cs-CZ/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: y+p25hzDQajwW3l3cGTtdg==
+SHA1-Digest: HAA0uxhHa1ofRsIBOUKpcOt7nBo=
+
+Name: locale/da-DK/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KxU7gAKPM86uBozDN7XbnA==
+SHA1-Digest: QnVTMuzkLng2wWTMih8zC4Y1km8=
+
+Name: locale/da-DK/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8uMHPiBPvjrBTi8tk84A1Q==
+SHA1-Digest: PlZeAoo7K0WRVKWGlfLR5gKAZUQ=
+
+Name: locale/da-DK/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Sy56zQoNO2df4gU3Qxl7Rw==
+SHA1-Digest: CCgMs0Sn6vjmvgSWgnFhj7hGgZ0=
+
+Name: locale/de-DE/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8gTnLpCTUizOTMoiZeIRgg==
+SHA1-Digest: ltiQGMNzmmmTDoE0tSQ04ET7ZT0=
+
+Name: locale/de-DE/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0NzKf4gXTArwCJmJR8BD4A==
+SHA1-Digest: ouCrLUey+htIYwik886v7+QU/6I=
+
+Name: locale/de-DE/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NLkUokEtoTrmt2gtAYxNUw==
+SHA1-Digest: +tNbPC0XDUh22XVhPMvoHqqulf4=
+
+Name: locale/en-US/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UjOx7sXAU2DudPZlulg6kw==
+SHA1-Digest: 3gLSvvSqnxIJAUmKdW5ZcgUwMOo=
+
+Name: locale/en-US/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: S3ytdXNAD811vmD+26sgEQ==
+SHA1-Digest: TQfx0XyyrrxlbmzW+OBkOf/2dUU=
+
+Name: locale/en-US/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ctB+gnsXmvOknI/O2UZlfA==
+SHA1-Digest: E0kEX23de+c9McW37pwnQATVMbQ=
+
+Name: locale/fi-FI/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kYPqEu8rftTrjjOPdGRxDg==
+SHA1-Digest: gBlpD11R/dn6xev9e7ySNqFYjms=
+
+Name: locale/fi-FI/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oZjIUEfN0oMyVSEZe6ooPw==
+SHA1-Digest: 51IgwpVvTtv4sLyFrp0iv+U2cMY=
+
+Name: locale/fi-FI/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HDK1fcFVEC4q2aZ/SBvwXg==
+SHA1-Digest: FWXoQVLAgZVkm3x5iaECLmtvJzs=
+
+Name: locale/fr-FR/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PDmHt+72rGax/BJRw+jd2w==
+SHA1-Digest: TEVOUK1jy1rQ1rbWiWATj2uCL7A=
+
+Name: locale/fr-FR/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vfTZBP2I+uymIuhuBn+c4A==
+SHA1-Digest: XE7fE3EpXP8MqvlvXgbu7TH8Wfo=
+
+Name: locale/fr-FR/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fNOPN912f44z9Imc0252Nw==
+SHA1-Digest: Yl38n03gjYH2trMlXO65CT87ths=
+
+Name: locale/hu-HU/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yS2UkcRL2j4n40vpMXZkRg==
+SHA1-Digest: jkbZnVoA3g+Wh1Cif3kEK9RDajM=
+
+Name: locale/hu-HU/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: n9XGGspK3qYuOJdBIEq+XA==
+SHA1-Digest: bt3HSX1zNkqWKD0iGBxavGtS9q8=
+
+Name: locale/hu-HU/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dF3d10CqGvITYBEQSbZI9A==
+SHA1-Digest: nGwS+FSgazj+7tK67dRDWcnkXZY=
+
+Name: locale/it-IT/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jPIxqTh44Syy4q26jS6BtA==
+SHA1-Digest: LS0nA7kqF61BD5AB16mI7kv4HAY=
+
+Name: locale/it-IT/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zHX5/7CGTkFHWD2tLqhS8g==
+SHA1-Digest: jFbUw1M1XHaHJOZa5cVrgTWziFQ=
+
+Name: locale/it-IT/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: m3CbCUiF/2tapaYxtLU2ig==
+SHA1-Digest: 22fVisf912/qy0X/iTMXXfCIlbw=
+
+Name: locale/ja-JP/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: auFubmGjF/vkSLE1MbUY+A==
+SHA1-Digest: SoR9uDwoE368DbJKEjEiY+gfKoY=
+
+Name: locale/ja-JP/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: A9qEkEkFDpelccgavWIvDg==
+SHA1-Digest: hV0F8ca6Zs8h8d7GrRTxzGEWyXw=
+
+Name: locale/ja-JP/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Sn4ARH7uIsIqKQ6jM5eAaw==
+SHA1-Digest: W6XUM+pCliL6hbB6Xh+7/ueFO0k=
+
+Name: locale/ko-KR/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: y5ayHsTk5Qt/lHTPET5a3A==
+SHA1-Digest: XhyryBn6Pd6Ycbe7fNybrGX4asE=
+
+Name: locale/ko-KR/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lYbQDiYTWstHR5GcaDGEYw==
+SHA1-Digest: Wp1Q4GlkQ+PyaNoQOAKbFucF7EM=
+
+Name: locale/ko-KR/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MFyE7Z0YAK0aHVIL6htgzg==
+SHA1-Digest: DkH/XQQCV3kLxruGsN2TwPXtgQE=
+
+Name: locale/lt-LT/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8Um81Jbhv+qjjmvBYcS6eg==
+SHA1-Digest: IF8EXV6M3uQf5vUQe5kYWjX3oCo=
+
+Name: locale/lt-LT/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SOi4zCt3ZvijH7fOEd1r+w==
+SHA1-Digest: WSQoL5IT3k0DNNc3qwlO/uKVFa0=
+
+Name: locale/lt-LT/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DGDBU7Ocs3Qh0RazfziHVw==
+SHA1-Digest: ODZCDarqFL+GrSOdvdoqx4wLULc=
+
+Name: locale/nl-NL/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ozj1GDLj8VCrfUaC+vV0Og==
+SHA1-Digest: N79E9BUXjJhFj7m/lmkox/2DPtc=
+
+Name: locale/nl-NL/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7kBzvG1pQiqY0P0jvJaKzQ==
+SHA1-Digest: wxPPdbDB9/7iBMNTxUFR+MEE30Y=
+
+Name: locale/nl-NL/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RCPbLfcdfo54lfzMOL6XVA==
+SHA1-Digest: /D3Jk4lyj7BSq3lYBLg00G2kpOw=
+
+Name: locale/pl-PL/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qGda0qHEmkt5oF5hIjp7fA==
+SHA1-Digest: R0vEx5XvLSek21q8Ml9YMlDgJrg=
+
+Name: locale/pl-PL/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /YyFoLLBUnkAie+7FEPmfA==
+SHA1-Digest: SOIj4anYnkWp3lztkLUBYbMHcZc=
+
+Name: locale/pl-PL/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VfzBg3N+VQjDMRMyWFLpeA==
+SHA1-Digest: 6SCld0lEdpZo1NE1GinXq+pnwHQ=
+
+Name: locale/pt-BR/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mcFFvlau/AWFhlgrnkrT+g==
+SHA1-Digest: 4CFQcBC/ln2mY27JNEt5S1nq2uE=
+
+Name: locale/pt-BR/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FPwy31Ff1x3inRjLBz+BYQ==
+SHA1-Digest: F0rq1b1TBjJcXU0EtE/s+EIb9Fo=
+
+Name: locale/pt-BR/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 22e4BX48BYCvZolFVs7NDA==
+SHA1-Digest: B6VTsJGlMohUSlphiiOxPuUhE38=
+
+Name: locale/ro-RO/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zqcPX1XYXybvL/4KkQZ3kg==
+SHA1-Digest: z8Z+VCPZMzL2tAPSATfsPAa+rCQ=
+
+Name: locale/ro-RO/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /LEVO8h50OHV5R7zRur+bw==
+SHA1-Digest: 7wY4tDG50TBMd+iQ5ZAig7nCgFY=
+
+Name: locale/ro-RO/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1EzEfu0cf0/6GCSC8ohN6w==
+SHA1-Digest: vflejkrW/eDOhDBEdNLHiPgtQVY=
+
+Name: locale/ru-RU/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WH2fP/6pYDdGgxSdbvPfxQ==
+SHA1-Digest: MYomKYlUmXXc/B8QuMd4eX6neZA=
+
+Name: locale/ru-RU/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Q08rV5j5suMZgSf09m79hQ==
+SHA1-Digest: pFpbaCGTyhbVAGC7y9558m8bCyQ=
+
+Name: locale/ru-RU/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Gw+c2wPm86SO1T7IOfF/Ww==
+SHA1-Digest: X3rrjkZGoLlxCKpk/HLrqb87TmY=
+
+Name: locale/sk-SK/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Fg285VsDb1tp0UKMJffnmw==
+SHA1-Digest: oowmdqSAgjTvWU6S+cMOTa1digA=
+
+Name: locale/sk-SK/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jCJCAqdBT/fLhR9e5YZBuQ==
+SHA1-Digest: DJwoKdH+HeBWB4fKf2FiptSh/nA=
+
+Name: locale/sk-SK/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4aP1PhsPVVlttT0Af2deNA==
+SHA1-Digest: 7+7ZhDqqMelyALhSoPMsDd8dRHU=
+
+Name: locale/sl-SI/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VIGkqr2OFEg/jHeYnOuz1A==
+SHA1-Digest: s9gKiGTjrFRIiI239pyMKn+TDFA=
+
+Name: locale/sl-SI/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Bmj5SlZE7dz4QKM1Dm8xkQ==
+SHA1-Digest: vri0yx5hObXvLPHH6rZ4Fp90+7k=
+
+Name: locale/sl-SI/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /qqDVSP/cBBhPKD6LXyE8Q==
+SHA1-Digest: pTzpXhYN1vDAqvMlz7QgEH5h8v0=
+
+Name: locale/zh-CN/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zHxCZ4n2CR9/xnwsSfbdaA==
+SHA1-Digest: xlTCsFMkiwBwn6JHyin8omdRv+Y=
+
+Name: locale/zh-CN/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UGwo3pvDTPecjGk4rkPXRg==
+SHA1-Digest: yKXN3vvY2+4+HgWFb/By3LWn+ck=
+
+Name: locale/zh-CN/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z+xYw1jF6Jkqeauc/DBpHw==
+SHA1-Digest: AcIX9477vhDvr8uSPLlk9reydoo=
+
+Name: locale/zh-TW/tidy/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CvrmIvELxWg+uWMzXoQjRA==
+SHA1-Digest: Aw28MAPg/KcXoibsD/D9bHKrfFE=
+
+Name: locale/zh-TW/tidy/tidy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JQPuxlu1KSL6JvMJumsKOA==
+SHA1-Digest: 8B/fSdfDjO8R5e3RWy3rOMPruC0=
+
+Name: locale/zh-TW/tidy/tidy.properties
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s/pJVILZaNkrWkEsEXM41A==
+SHA1-Digest: oXhOhINY0x0pEZePT94CebsjtXo=
+
+Name: sgml-lib/catalog.xml
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IBhPWKJbVLKaEjf1smD3Kw==
+SHA1-Digest: PlpcafRli1qdTA2A3QXB+Lt+CqI=
+
+Name: sgml-lib/sgml.dcl
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: B1AHqGWimBBfHZFtZnxYNg==
+SHA1-Digest: WEyaHr3dVL1zNb/yAGMq+uMe1Yg=
+
+Name: sgml-lib/sgml.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8eyabLcn+7NBjY5TwY1j5A==
+SHA1-Digest: 8wB2afJV8e7Zm5x+AADbIGBrBR0=
+
+Name: sgml-lib/sgml.soc
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eaYziuxQJBtMU6g0hW/QHw==
+SHA1-Digest: rxXoBXKQP4MyLhCBvCprehaX7u8=
+
+Name: sgml-lib/xml.dcl
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MJqsXMM0lEPtThVyZ9lamA==
+SHA1-Digest: hEciJBIWsk3jjCDwH6IDHO5/248=
+
+Name: sgml-lib/xml.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BEgXDmJJNx+Br2NNeVkvcQ==
+SHA1-Digest: AgBl+PObpFv5JxQ24rrAcdsc6fc=
+
+Name: sgml-lib/xml.soc
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bnkozggW/8gpVFC1xDFoeQ==
+SHA1-Digest: UYDUvVgQzFEA+vmAmI2roqGYeD8=
+
+Name: sgml-lib/IETF/HTML-2_0-Level_1.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Bo103+3W5097aU159SeOMQ==
+SHA1-Digest: byl7v4tzdHUcNjMzsTYPaxwcUpM=
+
+Name: sgml-lib/IETF/HTML-2_0-Strict-Level_1.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FQJ0mpV3PkIpRuwDiQcMOw==
+SHA1-Digest: LuPnUqSf9bRP0hyrTkwXMEg1kk0=
+
+Name: sgml-lib/IETF/HTML-2_0-Strict.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4ulYYwZdaJZabhkEcVYAwA==
+SHA1-Digest: eeryDnV5V+EhKWSnlwjEG7b8H7Q=
+
+Name: sgml-lib/IETF/HTML-2_0.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ikbZ+89gnr6DGfBLLmsYzA==
+SHA1-Digest: mlrsxk72okESiaT25AwoD8+XtWM=
+
+Name: sgml-lib/IETF/HTML-i18n.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rAlYnfLEIZMUN93uhhW+LQ==
+SHA1-Digest: V+voJ6BCtAqTnfA/A1Ipgb2EPAo=
+
+Name: sgml-lib/IETF/ISOlat1.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TaGYQx0A4m1R6hnhGHQbMQ==
+SHA1-Digest: bvPQ4EJoZMUkyNIQFYwSkwqryvI=
+
+Name: sgml-lib/ISO-HTML/15445.dcl
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s7QlZhZtIRgyOQOEUBbIzw==
+SHA1-Digest: 3d2WFDbp7zqyhLV3v+eaZDtjGg8=
+
+Name: sgml-lib/ISO-HTML/15445.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ocZUJEhrJ6zi4KdoK2cRYw==
+SHA1-Digest: jFcV/c2t4Lo7etFndfrRYsDxs8w=
+
+Name: sgml-lib/REC-html32-19970114/HTML32.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iJAChv0wGtL+RsiImHRI8w==
+SHA1-Digest: VdgvG7bPZ9ln7O8kkESaF4T5kpI=
+
+Name: sgml-lib/REC-html40-19980424/frameset.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: reyHnb7CBWn9B4zqfjvLSw==
+SHA1-Digest: 7Xbz9jJg3E5nuqFnMJf0onS+QUw=
+
+Name: sgml-lib/REC-html40-19980424/HTML4.cat
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YThE5ZowxEBFcIHxfmDaNw==
+SHA1-Digest: w3ort6rD9sAxETdRvEnvOVNab2k=
+
+Name: sgml-lib/REC-html40-19980424/HTML4.decl
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sNxU/7v76rlpKeQbmn5h4Q==
+SHA1-Digest: rrBwAzGGtntoqDnKFZgypz9Eg/s=
+
+Name: sgml-lib/REC-html40-19980424/HTMLlat1.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XJz+Nai+/4VDxex3wNwgAg==
+SHA1-Digest: hndM0JLjs63GSgwVGBOxvxNP64A=
+
+Name: sgml-lib/REC-html40-19980424/HTMLspecial.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CNjVQnYXFFVfvG6MHFxk7A==
+SHA1-Digest: k5xZmjOMpuP7WLJQJ9GT6PzV0dA=
+
+Name: sgml-lib/REC-html40-19980424/HTMLsymbol.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +JSwgpASicc/Hu60D7aqCQ==
+SHA1-Digest: JYz6HeusPPExul7rXDEuPeXWNes=
+
+Name: sgml-lib/REC-html40-19980424/loose.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hTIRY4mR2J/7e84TLLs9Jw==
+SHA1-Digest: sg51RQLnt+ZASn4warx1hmq4xNA=
+
+Name: sgml-lib/REC-html40-19980424/strict.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9uljmYIfheeBhNN14ex3/A==
+SHA1-Digest: 1bd143q+OBu7mHUVCizI+lZ2jKA=
+
+Name: sgml-lib/REC-html401-19991224/frameset.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mQD3vSHTNnw5zhiWQmi/+Q==
+SHA1-Digest: 4D67pCxsyR/o01kY4kDDJVEIbc4=
+
+Name: sgml-lib/REC-html401-19991224/HTML4.cat
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rwg98ZACxuPlxFPOxrbvmg==
+SHA1-Digest: WMHF5xbOlu7emyjlihUcYdAMFdw=
+
+Name: sgml-lib/REC-html401-19991224/HTML4.decl
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7CmJEd2c+OZnCzbKOMF41w==
+SHA1-Digest: UYgzT/YXLxA80HlAmgAJZtWZTaE=
+
+Name: sgml-lib/REC-html401-19991224/HTMLlat1.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dmKZMuZ1Kh0Gyts9wmF/5Q==
+SHA1-Digest: FuVCIPltYKbjVr/H2QjdE3odpKY=
+
+Name: sgml-lib/REC-html401-19991224/HTMLspecial.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jQNjzaAFhmR0gg8Rc+NtpA==
+SHA1-Digest: Bjxdu2fpUEyIhdujVcHUc3EFHR4=
+
+Name: sgml-lib/REC-html401-19991224/HTMLsymbol.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uRpqKLJ7yp689ETAKbn0jA==
+SHA1-Digest: CvkSgGL4diB/u7/QxcRPzkprubw=
+
+Name: sgml-lib/REC-html401-19991224/loose.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9oHd+y7/fWnlFtR/qxMMXw==
+SHA1-Digest: 68im4Dz/sE7jr5BCDjE3y0XwaJU=
+
+Name: sgml-lib/REC-html401-19991224/strict.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YRbE23r24+DZQUa2hyBOsQ==
+SHA1-Digest: JH9kieO/4aZNZdH+qB9qt6uYhK0=
+
+Name: sgml-lib/REC-rdfa-syntax-20081014/xhtml-metaAttributes-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1MdBxDko4XptWaLjG7h6Xw==
+SHA1-Digest: lldGLDWJiF/07/9Sin/68R2FRuM=
+
+Name: sgml-lib/REC-rdfa-syntax-20081014/xhtml-rdfa-1.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 65PosMXlNeT7G49l+9Oi2A==
+SHA1-Digest: 7e3s7RWLAJ8xbTLDpI5a4hm1lT8=
+
+Name: sgml-lib/REC-rdfa-syntax-20081014/xhtml-rdfa-model-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aRolRWWG0uzTakGweCIbrA==
+SHA1-Digest: GkemKC2tPTxaTKYHagNt8ee6kkk=
+
+Name: sgml-lib/REC-smil-19980615/smil10.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yyavqvgGxCzbOvwUU86URw==
+SHA1-Digest: jqd3T51u8PE2EA64zWwAoQQShAo=
+
+Name: sgml-lib/REC-SMIL2-20051213/SMIL-anim.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oq+We80Ate283KHPpI8WJg==
+SHA1-Digest: QvV411ZbP8ShT6EAy0t/MYoKEHE=
+
+Name: sgml-lib/REC-SMIL2-20051213/smil-attribs-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ky4ISMJqrJ+E26JJgV+zsg==
+SHA1-Digest: NUP8vIWt4urR9bBiTbA5/O4oNEw=
+
+Name: sgml-lib/REC-SMIL2-20051213/SMIL-control.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CW7JNz+tbP2hdQeDJm0g5Q==
+SHA1-Digest: E6/b2xmIKWVVpwuQPkRSWXIX1TM=
+
+Name: sgml-lib/REC-SMIL2-20051213/smil-datatypes-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ng5sTcXk7o/pZ+439LLlLw==
+SHA1-Digest: Iy+2wi8zTcnv2OWzH7fuzoW0q8s=
+
+Name: sgml-lib/REC-SMIL2-20051213/smil-extended-mobile-profile-model-1.m
+ od
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SvNKfBC2NEUvZ99HubyEag==
+SHA1-Digest: U7m7yuG3c4LBwtFPZIQNJ3Ds+7w=
+
+Name: sgml-lib/REC-SMIL2-20051213/smil-framework-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DeGVfxhgWq1GCddoJtN4lA==
+SHA1-Digest: aNSElyTdr5DtDhO2k1TGdVsjIRA=
+
+Name: sgml-lib/REC-SMIL2-20051213/smil-language-profile-model-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /1rb5A//5lTPRV+3P/LkMA==
+SHA1-Digest: Ssdzv3utUoboWNR1YTGTCaQMfwc=
+
+Name: sgml-lib/REC-SMIL2-20051213/SMIL-layout.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wlg3MnxB2wieja/d3QtyZA==
+SHA1-Digest: PaL69BJOdXHdNjJFZ/K/g9Q2kU8=
+
+Name: sgml-lib/REC-SMIL2-20051213/SMIL-link.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8UbFeHsE5A1U5o3MEpW+AA==
+SHA1-Digest: +EwJDp1X9pM5BMs+mhIiW5RJKyE=
+
+Name: sgml-lib/REC-SMIL2-20051213/SMIL-media.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: x9G6yGnoq9zk8yeoCe5SfA==
+SHA1-Digest: Gy5t+EGFk4YN3fETNHNLoUPytaw=
+
+Name: sgml-lib/REC-SMIL2-20051213/SMIL-metainformation.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mdd9Nik1hMi7wV7nannuVA==
+SHA1-Digest: 7i5DXlZEjO6ul4dJrIE93LwMs3s=
+
+Name: sgml-lib/REC-SMIL2-20051213/smil-mobile-profile-model-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jbEq54rQ+aBGETMS9g7uOA==
+SHA1-Digest: RMeeKh5z8nJKGMlN6WZdvWCnjKo=
+
+Name: sgml-lib/REC-SMIL2-20051213/smil-qname-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6tc0KY/aMKBP5SmTOMj9lw==
+SHA1-Digest: kNxsrtpk1x56jjnEG30Eo+v9CtA=
+
+Name: sgml-lib/REC-SMIL2-20051213/SMIL-struct.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a0oc+yhoqI4Z2xM5Y0x69g==
+SHA1-Digest: OXc31okrauMbvn8ZHemxe3xfxkA=
+
+Name: sgml-lib/REC-SMIL2-20051213/SMIL-timing.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zjxpJUITJJg+suaGrT9xpw==
+SHA1-Digest: xwCnpy3/n6ZDimPG0cwuuT0dOBI=
+
+Name: sgml-lib/REC-SMIL2-20051213/SMIL-transition.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: R/kqpAFwS78lFQj6F3cLfA==
+SHA1-Digest: pL2mKz3ioaTd+s7+1fyP0I77Yw8=
+
+Name: sgml-lib/REC-SMIL2-20051213/SMIL21.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jf6k2Eh2qfBE8Bri3GjzXw==
+SHA1-Digest: XLhoq0rhHQirRMhNIVhPmEcxR+o=
+
+Name: sgml-lib/REC-SMIL2-20051213/SMIL21ExtendedMobile.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xA6LjVDykLmZTFdyhE/g5g==
+SHA1-Digest: RnyTIRAQM42K4XfGlpjZqcMovrM=
+
+Name: sgml-lib/REC-SMIL2-20051213/SMIL21Mobile.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Bp0lS/HLv04mKBRYS+OyzA==
+SHA1-Digest: fFBa2jqlIhkerLw36fjiUSQZo9Q=
+
+Name: sgml-lib/REC-smil20-20050107/SMIL-anim.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XwhYtSL/FV1/apJ3tIKDiA==
+SHA1-Digest: jQXKI6U/RE3YIXTaqAN2Qh7jlSI=
+
+Name: sgml-lib/REC-smil20-20050107/smil-attribs-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oQRtOo3gjBlv09E4wsHKuQ==
+SHA1-Digest: jOhvkoreAdKhM9LYecndshrafQY=
+
+Name: sgml-lib/REC-smil20-20050107/SMIL-control.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CydIZTjvrQsm4XO+4FYbOg==
+SHA1-Digest: HJHuFsBeOewQ3PUqAII+tync+TA=
+
+Name: sgml-lib/REC-smil20-20050107/smil-datatypes-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7EdHT6CEca0NhrfzG6Vx8w==
+SHA1-Digest: 4LWgK3SFSvNKQX7e4iqBga/xsyg=
+
+Name: sgml-lib/REC-smil20-20050107/smil-framework-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ji3RHt4BbhfZ5iAnHBnOwg==
+SHA1-Digest: oVTcjeUgx0qntuTFjWUc1eGHdHo=
+
+Name: sgml-lib/REC-smil20-20050107/SMIL-layout.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zrpInR7/G9NsCEWOqdSgng==
+SHA1-Digest: 1cI80b11pMqclMLyMK4DteryfzI=
+
+Name: sgml-lib/REC-smil20-20050107/SMIL-link.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c1a7LXuy29NTQpNbj+k8DA==
+SHA1-Digest: yofzFSqqeQMdjxQxbzIbQo2QogQ=
+
+Name: sgml-lib/REC-smil20-20050107/SMIL-media.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HruB3zJez1BteblPJgbIoA==
+SHA1-Digest: J0EF+klaXQ09KjphKHXe1PBpURA=
+
+Name: sgml-lib/REC-smil20-20050107/SMIL-metainformation.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ESXnyHEMQaUltPLDC5lZsg==
+SHA1-Digest: kW1sm/JX2aH8c1jvPaL6Receb3U=
+
+Name: sgml-lib/REC-smil20-20050107/smil-model-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xa/yvQySPOOFSxZ4k+CeAg==
+SHA1-Digest: 6qt4O2O6CCfUDyOBvBNVev4izGU=
+
+Name: sgml-lib/REC-smil20-20050107/smil-qname-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PHQG3m49SqECWWfWYRu2Qw==
+SHA1-Digest: 86VRGeEdOwS7uyAIw+q4LHq0e54=
+
+Name: sgml-lib/REC-smil20-20050107/SMIL-struct.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: O0WkIF33OE++jsKVZfy8hA==
+SHA1-Digest: KvOI3sYj72AttvAkV43fdoGd7PE=
+
+Name: sgml-lib/REC-smil20-20050107/SMIL-timing.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +tYrysH0h+nBWPTTY7ANbg==
+SHA1-Digest: YZQKAK+7DAfIt8iXP9Vf6X9xUIA=
+
+Name: sgml-lib/REC-smil20-20050107/SMIL-transition.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ay6K9CDLTq28n07VCqCeYw==
+SHA1-Digest: /XUvPb+weaN8gVH1n77eT0/VVFs=
+
+Name: sgml-lib/REC-smil20-20050107/SMIL20.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FzhBHCTYgm5eoDYBrGeG5A==
+SHA1-Digest: OIOcIjg/9+VydmwAkBWuLxJSi1k=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL-anim.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CV4cKy22AeYpx9vpzUq/1g==
+SHA1-Digest: SP0aUm8i9Hmz1a/R4TDWISPmVgo=
+
+Name: sgml-lib/REC-SMIL3-20081201/smil-attribs-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: InGeB/9kVvWpCqJrK745TQ==
+SHA1-Digest: lRIE319RuJXOdwziFzcLKzauhRA=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL-control.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8JCy7/cZV40cwU+wwoMgzQ==
+SHA1-Digest: 8cTt/+vfrLDihwKIOgpTFn236P0=
+
+Name: sgml-lib/REC-SMIL3-20081201/smil-datatypes-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cd/3qW1ffo1IRS3DgPIgGg==
+SHA1-Digest: seLLV+1pB7rDJosee7rN7n2fULo=
+
+Name: sgml-lib/REC-SMIL3-20081201/smil-framework-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wz7Fx7jxYJ6mjGGmepSWCQ==
+SHA1-Digest: 0fo6MD3GXEJokcVn9oeOJbAvgEY=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL-layout.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nVFiMO5jAzENl8rWveoetw==
+SHA1-Digest: LV81AZVYf1RST+vjzBVTnt7UxEw=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL-link.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a73wKdrd7QUS78BC+4LIvw==
+SHA1-Digest: Opa+PxzXqiUdEh+LHB40XkG5vsM=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL-media.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zCpWNN+/FDWEXRis7VoP6Q==
+SHA1-Digest: /K5N+8xet0o5NYsTMNvkbxK7Z5Q=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL-metainformation.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7C8WCEH24EvT1j6b/kF/Aw==
+SHA1-Digest: MfIWRbVnKMmg9gg5GYGu9MXEd6I=
+
+Name: sgml-lib/REC-SMIL3-20081201/smil-profile-model-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uvqdraUChPDumihKNLkA9w==
+SHA1-Digest: MvLWDgjIQ7iNbOo4BOaURjZSt9E=
+
+Name: sgml-lib/REC-SMIL3-20081201/smil-qname-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: erLSFMjbMO/qc0dIfMWawg==
+SHA1-Digest: SL9V0icWrF9ia3nnCigkoftpCQk=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL-smiltext.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uYWT3sYsrwQo25q+P3jzCg==
+SHA1-Digest: fu4S3Uv5NnjCDjGVqDNrYSLa2vo=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL-state.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Tr6yQaZk1BkR1C19281o6Q==
+SHA1-Digest: DO3K7kJ10obFiiL+FHU29R2JSrc=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL-struct.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: g8RM5XbdtQefweMWXADoLA==
+SHA1-Digest: ZEU7fI+QxpPXVkJwX+K6gVir23s=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL-timesheet.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xs2b54K7sG+gFIzcoRYCmg==
+SHA1-Digest: tv2TVMsXLo2wIv8ViODNbsoJxJY=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL-timing.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2roPJX9HtRTDmVhJcot7PA==
+SHA1-Digest: jCtyJ+9F9rLDIuc4cTXgvTc7EOk=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL-transition.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RvPpm/q8rE6Z/hD1AIUKXg==
+SHA1-Digest: 7YSI/NQMHhu19fOflVbqJfXg8Pg=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL30Daisy.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eI5YNxpIeRC0JlFGAo6VuQ==
+SHA1-Digest: NZbkW28ACtREYca9SaHm+H4BHGg=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL30Language.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3Bw2RsmPeXoDOlU3L5QtBQ==
+SHA1-Digest: RA+nyVWNCSoNG6FF8D78Ay62fK4=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL30smilText.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XroMtNarsUJLgKnGx67HHQ==
+SHA1-Digest: bhMnPhugQ5moUUsP7XPYiT+cdng=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL30Tiny.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SNS/44fN0jdfSpx2qdUU5w==
+SHA1-Digest: 34gUk79WN7ilP3WU40yUIBkl57g=
+
+Name: sgml-lib/REC-SMIL3-20081201/SMIL30UnifiedMobile.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nR5lUuyYAZW/Dho9qEoHvw==
+SHA1-Digest: +a+hGDxlWbJQR/qsOjkKokLcv/E=
+
+Name: sgml-lib/REC-SVG-20010904/svg10.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GO+M6IcTl/MRmUB75I4llA==
+SHA1-Digest: o1vl5ctAWV6t3PRRSt21VtiTUE8=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-animation.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tbudqTPfdivVTx9qdtnc2Q==
+SHA1-Digest: 8kbdyFNwejgAMfb2gMhng8Z5BmA=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-animevents-attrib.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SAWWeQul8Q6ywEpa/qoIrA==
+SHA1-Digest: dRJWjqh3qHHgJWDAo2hWnT3nk1s=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-basic-clip.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 105NIBoQ/+hHLHpXFx1TbQ==
+SHA1-Digest: m8tG46+ezLIGhQTkTlCqDXRaRnY=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-basic-filter.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9cATN+/MZxT56E8LLL/prQ==
+SHA1-Digest: PpQzrEV7H55KHZTnpHjscYgPXzw=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-basic-font.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5M+6IBujguORhM4p2hJQjg==
+SHA1-Digest: KIWHPqtDX9YY5Lk/x7/29UuPKTw=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-basic-graphics-attrib.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jruUGu2Q7EDHuYMdVaEq0g==
+SHA1-Digest: /33reVW6ZHZWjzF8x8gCK7k66rM=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-basic-paint-attrib.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fZneWrKss9RpPYXK6chUBw==
+SHA1-Digest: IrRSfjik3IAN14wKYJlzpX1xYh8=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-basic-structure.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cG9vyrV16q61KifjpyTd0w==
+SHA1-Digest: P2GPLQVOw2UQR2HRnb1CDY5rwRY=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-basic-text.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tUxTij8f6OFP90NHWbm62w==
+SHA1-Digest: 6tYSUJRxl5CN0wZBi4bi395b4T0=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-clip.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: R6TjcgL+0NLrLWU9GZtYtA==
+SHA1-Digest: e3QHgYR3G75NHqMStzcMN5U+KO4=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-conditional.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fo3r3s8GZD/NnkOXJ0xbIQ==
+SHA1-Digest: OHxjrXLoDcBLJZfsbCDjYdlacRo=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-container-attrib.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VCS0sQFhJ60Ib2cSFcTN1A==
+SHA1-Digest: RNWlXIjfWmSyQ36f7KRfBmclkgk=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-core-attrib.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0yadYQ93TJ2EUNXJbU+6Qw==
+SHA1-Digest: hxxJ/O1vhNLeiKoN9MX8R2Rutlk=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-cursor.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fxCcCLBzSimDFwIXvXDDIA==
+SHA1-Digest: oIfQ5wbJWGP7tNtS62Ti25LDqJY=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-datatypes.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: slrBIOOP9S3ksz3XozhGVA==
+SHA1-Digest: mrDe5UcgbBYFYThHcfFSknP7ELo=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-docevents-attrib.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RwdTiHNqwe6QbQVKGwENpA==
+SHA1-Digest: DlrkF8VKAdeyYRpSgtO3FL9eRmE=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-extensibility.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ptms9Nb9LPk/gY9IZpuQfg==
+SHA1-Digest: bZ/0+ReRj4YkmYspiDfgYSEPhAU=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-extresources-attrib.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HO2IeSwsgSNKyYZ1plw8HQ==
+SHA1-Digest: oYzIZVpudkR0ZBX/EmSbH4P1p90=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-filter.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s2VP8wjFxsq8aqbLWasK9w==
+SHA1-Digest: MKBc1lWW+9Fpc/ikho5lLNLv228=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-font.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yxVQhYkxC5y9b8VM8l4+Xw==
+SHA1-Digest: UZnQjGV9VmB01JHjGqhaDIjq5rU=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-framework.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7yzbHHfMfQnYEQEr51Gbjg==
+SHA1-Digest: 40P6a1NyC+EVVWFTGBMQLlJTCiA=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-gradient.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cfm8cIgd9bameCSgzhkZ5g==
+SHA1-Digest: DnBBFgihBmdsuwf+bXHpe+FBGWk=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-graphevents-attrib.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: o89Ux2bXRUazazvBTivSeA==
+SHA1-Digest: yAVoNEuITCbcpolx5FBySXHhwwY=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-graphics-attrib.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: u0wJ7H1/xrBtgtCsYL/ukA==
+SHA1-Digest: hMQJob2R0PbhIbycpxBHl3mLd4Q=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-hyperlink.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: u3UxRhLIa9V3wdMSCcfh3g==
+SHA1-Digest: /VCcAeZrWnnht8KqigxLHQxeOfA=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-image.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LSLcEpuUneBE8oDY4k/xtw==
+SHA1-Digest: l6XWnuj+oZwaM/u2de8xoO7USNA=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-marker.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qDBtc88iFO4/ceUM7xGRwA==
+SHA1-Digest: efw7zlFZfX3gqFtufPSvtsZ8fvE=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-mask.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VL1RBGGv+3OBJUCZd++dpQ==
+SHA1-Digest: 8+skB1UVCfShL+bRtlws79PXAU4=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-opacity-attrib.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OxX57j8TZNam0LARSsr2EA==
+SHA1-Digest: 4g39r0snki523gGPq5pL3oGaqR4=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-paint-attrib.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zGMTw32wZTNi4RavAWsMhw==
+SHA1-Digest: i0GqmJgV2/amIvycFY2N071aOh0=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-pattern.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cAZlBlGvMp1vnEc6K+F/3w==
+SHA1-Digest: RvvwDLxVquOZYv1LjH6jIZOvDSA=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-profile.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IIO54Y3QDhDKnIYHCRXi4g==
+SHA1-Digest: 7MTdnH9uJDLgwnC0MIc9/Zezpks=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-qname.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sUiiNb+sr9Bxjpg24XV5ZA==
+SHA1-Digest: QUmlYVBsktbfrAElHXTqhfR8lrM=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-script.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: z6yLybcfNwaCgHz+cMTQmw==
+SHA1-Digest: b9w+z8ZQRVhmxAiCEGkJrd8Umpk=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-shape.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ymVjhrAz9TxFxVvn9Nd02g==
+SHA1-Digest: kETnWYECyKWSVwWzt5gHTPLhZW8=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-structure.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jS2tg7/SLqIJP/oGZSEmuw==
+SHA1-Digest: xp8dHBaYinGC9gyEl3g2UBPpvi4=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-style.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uu39eslID5Mw9/5W2Xd2TQ==
+SHA1-Digest: J3EDW1yNlRJJNxNaWuWIJllmfo8=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-text.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: l3+so0mCyY7IiaaSgkmQig==
+SHA1-Digest: vTiBVqJ5DESZ2fLBVdfIqsCoqSE=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-view.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YgKbf4/2rvypSnzoVEbHNQ==
+SHA1-Digest: k/bvYLTcHp3ZcsK8nPmEbUWzzJs=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-viewport-attrib.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1DEDbkpk1o0SUDgT+w3dyg==
+SHA1-Digest: Hm/jVQye16x9uRc2bNr3HOcfO4Y=
+
+Name: sgml-lib/REC-SVG11-20030114/svg-xlink-attrib.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +lES926/jPNu321xQbhgBg==
+SHA1-Digest: YlBpBlLfUOYL+2isjRAL7PRQCu0=
+
+Name: sgml-lib/REC-SVG11-20030114/svg11-attribs.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: x+F9OcngY/lFM4PTVG61AA==
+SHA1-Digest: FhmyncT9YJQtl/e1ws7DfyJ9BqE=
+
+Name: sgml-lib/REC-SVG11-20030114/svg11-basic-attribs.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: T3cD4wkLbbeRt51TbtLynQ==
+SHA1-Digest: 4B6zmMJmou4ZjOboKPsXWXy9TEI=
+
+Name: sgml-lib/REC-SVG11-20030114/svg11-basic-model.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oBT4sVW3PbpGt3KMpcJe3Q==
+SHA1-Digest: cxW5F5kHBZjBSq1w8ZscvfiL6GA=
+
+Name: sgml-lib/REC-SVG11-20030114/svg11-basic.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hg5mCTFVt8KH0i/GxSvYkg==
+SHA1-Digest: Vq+2+WbUphkWqcl0Tp0Lly9dba8=
+
+Name: sgml-lib/REC-SVG11-20030114/svg11-model.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9UuhhmR/VPDrzKyLTKRuWQ==
+SHA1-Digest: n684KoQQQLE8bIbld2gnxDDoO1k=
+
+Name: sgml-lib/REC-SVG11-20030114/svg11-tiny-attribs.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qBHXLWRDPPx5AQ4j9wabVQ==
+SHA1-Digest: Z1IFoKDVvhmHUWEPlYM+rOHekJA=
+
+Name: sgml-lib/REC-SVG11-20030114/svg11-tiny-model.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ejI0+GpO2S7Fi7FZ4prMHw==
+SHA1-Digest: 7FaCnitynAa0V61gS+r90MyAuFk=
+
+Name: sgml-lib/REC-SVG11-20030114/svg11-tiny.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6XhIHyVzbtTemuUhtmmPZA==
+SHA1-Digest: WuMncXdIlel4LyGa4wJlMpeO+gI=
+
+Name: sgml-lib/REC-SVG11-20030114/svg11.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ixS68gD3mQbtwZWDUJLQ2g==
+SHA1-Digest: VgGud8JVmDLXfLsOT1VqR6Uk3Nc=
+
+Name: sgml-lib/REC-xhtml-basic-20001219/xhtml-basic10-model-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wdJ+rO2VfFITIfK10Vf7pw==
+SHA1-Digest: P5MOgrbhMnis1ATHRFI68jTBlBA=
+
+Name: sgml-lib/REC-xhtml-basic-20001219/xhtml-basic10.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rPzfHmgHqhcvKCNy1KInaA==
+SHA1-Digest: ms0Ctp2DE0NK8sn4w0N641jxs6o=
+
+Name: sgml-lib/REC-xhtml-basic-20080729/xhtml-basic11-model-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XWKDaAWXlQPZwshNYYjQGg==
+SHA1-Digest: uCTHRNgA57zcR+TR8TBTRBFXy0c=
+
+Name: sgml-lib/REC-xhtml-basic-20080729/xhtml-basic11.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 34Vr0JuyrHwm5E9nm2hRIg==
+SHA1-Digest: IBSo9GzHEbZSuismRhDiPjFFft0=
+
+Name: sgml-lib/REC-xhtml-basic-20080729/xhtml-inputmode-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XMGn/Wf/zdyHqYPRYVC3Ag==
+SHA1-Digest: kVYlFmp7Lnxp+zQ90hvyVZu01QU=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/README.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LnHcSv8rTwngrgKSHntKPg==
+SHA1-Digest: V7RZP5zHDjR/rZNJB+wHEIB+SO8=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-applet-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HHhbWou7Tp20UbO5mYVuCQ==
+SHA1-Digest: 8ChU+Q7VGypSciKwOCdFL1wyTyI=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-arch-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ESUFwgq5pxPvC35146KBfA==
+SHA1-Digest: F/6XeeoFYTmTv2DzoSR/BRZqUc8=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-attribs-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: q2LFJGNxtTvd4Z+Lw5V/KQ==
+SHA1-Digest: Sbq5bEIR3OljHLOfuqf1HR9OkaQ=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-base-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MynOOC2z0GthEQh7N8oI5A==
+SHA1-Digest: ftkcO88OGbYed7cwdonc2KtW3GU=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-basic-form-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yYK3f13YMHvM1M75FDNkjQ==
+SHA1-Digest: +uL09qkXh0ESN/Emuc1sek3s5T4=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-basic-table-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zTjJqxLHg1y0YGEDonnxtQ==
+SHA1-Digest: WNZCECZzadooolCN1hS3jsPycWg=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-bdo-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2NpLNqjbdh1y3pVxT+fYtg==
+SHA1-Digest: beRfW+GeHMkKiWFILwgjig8WpL4=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-blkphras-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kXvviAXfs9TikYA+T/z3Qw==
+SHA1-Digest: o3BotrJ3FIlgdHS1z+jG831YJus=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-blkpres-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /Vq0YrGY7MQG3VhD/iofIQ==
+SHA1-Digest: YL6Ji/0L28/CpEOcssTZ1TEGVqY=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-blkstruct-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: woxl5IIeRW3uakuk3qDpuw==
+SHA1-Digest: Ifkq/XgkejcD5HaFJ+MgrXbyIb4=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-charent-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jBka3sjF8gY4bOcJwdovZg==
+SHA1-Digest: dtYq6g6klYMTnFM0blbIWyQM4No=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-csismap-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eISBQ7B9uqkCuTZHPNThpQ==
+SHA1-Digest: 0HhG8Q5eqmUGN+e/hi5kQxiWgZc=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-datatypes-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: R4HEiUrG4LDlxkfnbqvYeg==
+SHA1-Digest: ZoGnQVV35kH2QpmsFc6ZfmqIcB0=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-edit-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G76sk1w9HUWLrj4HBc9dXw==
+SHA1-Digest: TkbqPXtUa/nffXiodB7PsWL2jVI=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-events-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BBZs0AB3ngHWxJyZdv+dvg==
+SHA1-Digest: /pVXrQgdBA+iLJLVqwg5fZodK5w=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-form-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z6UlB244rPPm/rOKkgNOIQ==
+SHA1-Digest: O+4BZyyW2qGsodHoZ2LPfYkVU20=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-frames-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Od4/cSOVryPcSQIkCu21HQ==
+SHA1-Digest: JpDwRLg64DblDEWpKIwWR8i/D7k=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-framework-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JjgzaVMW7aykuwQfKapRuA==
+SHA1-Digest: sEcipQxgPEraqkOlzGfBnNGFLtM=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-hypertext-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mU1mDCdhtsMOsRkSqtD2Ew==
+SHA1-Digest: nuoOvOUAWMlMs4pFE4clNTAy7qM=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-iframe-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Uq/8n/nknmKRQzoFJ6PzkQ==
+SHA1-Digest: SON/2NutrJUAfo/+9BJ1cKvjfHw=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-image-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RnSqjFTjUNIp2BoZxub6gQ==
+SHA1-Digest: 5bi7RPDhIKJrS2IqzrLUlsCvYhs=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-inlphras-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dMdS6Lq+k2cRmu61FifJsg==
+SHA1-Digest: Dm0AoXFouv5pZEIfn68NDGVxjf0=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-inlpres-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +RXRJIrB2bvO6n5oSsTY2Q==
+SHA1-Digest: 1Wz23HKuq8jsblfMp2FrDsrDugE=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-inlstruct-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NalExi2tVUA+5aCNXMlRkw==
+SHA1-Digest: 3iK1DkCcokEt+mRUJkz3zSFUNak=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-inlstyle-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ua09MMh4Bi20Q/czZxdG2w==
+SHA1-Digest: mOcNSw6BEUPw7eydVal2NqrW+BQ=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-lat1.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LMC7jmZNyPiYyhq/t2WgqQ==
+SHA1-Digest: nCT5VZv0GtZhbhukSuhAI3VUoKo=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-legacy-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: N3SRjGn847Lu54c+gjOd3A==
+SHA1-Digest: v9rVUOswAKD40/h3ZwmUW6BI900=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-legacy-redecl-1.m
+ od
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bv76zm5Dg1Nnaf+5LslWuQ==
+SHA1-Digest: saaPIbYsLmoqBGYmNfFfAP3+mHk=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-link-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YBqwNDHXtpSJxJbNSni6ZQ==
+SHA1-Digest: q7OH7vhyfHfOn9wNdWYZOnX30yY=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-list-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dngTnJYR6a3U3e/lsnSgeQ==
+SHA1-Digest: v++acmS/fgHjsZMbc9wKT8MMtQc=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-meta-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UPWQUurwd/X1R0m5YHOIJg==
+SHA1-Digest: YZcJYcpq1wzIT/0cLHG7cNLPbA0=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-nameident-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ThTJ2T9BvsWgC0CeUEkL/w==
+SHA1-Digest: eHqSYKtYJw9QcBjdif67mJ4c/eg=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-notations-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9WmNCw/eI1T14Zi+siGT+w==
+SHA1-Digest: EVksWWlp+HpfMpeXal3eeHsuqDY=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-object-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pUPhpXsvoMoq5OZb5phbPA==
+SHA1-Digest: IzES7nwaaDTo/R7fcVIioLeAYT4=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-param-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IRDfABhkccjm40PVC/C5AQ==
+SHA1-Digest: U3b17ATxf1tPIJcOaMhM0fdBpbQ=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-pres-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 21L/obRpja9cPUFqlFjV8Q==
+SHA1-Digest: XlXXJ0jvR64IzTKR4wKn3liSlmw=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-qname-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: netJM4s77zD4itjIxSs+nQ==
+SHA1-Digest: 1yhNiN3FoJymZxIvkrTt9ZTchTE=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-ruby-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SicW1kpMfJsqs1E688LtaQ==
+SHA1-Digest: 04XYsd4Gnn3YlRrYX5aycJEFHkI=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-script-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CMGJhT0NKc9X+KchpAXdIw==
+SHA1-Digest: /hSJBLunQV9+iv+661l9DGSiNZg=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-special.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YYWixeq32L4cEXkz3i+Wzg==
+SHA1-Digest: bkslgIZHaz17PJYwIbac+0SMK98=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-ssismap-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: B2pVOlizcvb6eHUxvluRFw==
+SHA1-Digest: +w+LrVaB0rLeazr2BzB0V207lKM=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-struct-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8KDMqvO4rFlAj5pgZpPlsg==
+SHA1-Digest: t04j7GIyGEwFQak/tkPCRMmNA1o=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-style-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6jYyXaEENAGdfgUtwJ9x8Q==
+SHA1-Digest: biZiWR6H4l77VnX0mstiSBQBw+k=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-symbol.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KlWW7zSvsGTwnhDfDBzhhw==
+SHA1-Digest: WFYaMFc2zrGGO59V8Nc2SCjY5H0=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-table-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: v+DRNNmysIEsjeUWv6VS6w==
+SHA1-Digest: OyU3fVNdFCbyqm14OI3ztvAtbzQ=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-target-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jFQyuRAAnqg0cWi5flDFdA==
+SHA1-Digest: PAg2bfEZ+f/kBQSwsM0A3WWDDBw=
+
+Name: sgml-lib/REC-xhtml-modularization-20081008/xhtml-text-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yYLi79j+0NnjMiUzhEhzVg==
+SHA1-Digest: 64gBRFfKjitYD5Dmaa5R83RnEGc=
+
+Name: sgml-lib/REC-xhtml-print-20060920/xhtml-print10-model-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: D9RrSYJs4dRtqexrxcf7iQ==
+SHA1-Digest: /pWf180+4KxS4PLOPKolkZeqvsw=
+
+Name: sgml-lib/REC-xhtml-print-20060920/xhtml-print10.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ceAo1Ku4A5oKntp9HTLL9g==
+SHA1-Digest: XMNqSshYBDst0l1EeEeKQrJFcys=
+
+Name: sgml-lib/REC-xhtml1-20020801/xhtml1-frameset.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3YGHqaQXILm95tvutoFbIA==
+SHA1-Digest: ObRijukVxVwVbiV3k+Hn16+WAEM=
+
+Name: sgml-lib/REC-xhtml1-20020801/xhtml1-strict.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JAF10fZaJIZ2mD0dSXBbig==
+SHA1-Digest: YeAz/nF4dkqrgbT8gVWpRX49Xz0=
+
+Name: sgml-lib/REC-xhtml1-20020801/xhtml1-transitional.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tdwCVyfk4FRpAV2baeMrvw==
+SHA1-Digest: qL3Hlt51NHH+yshNB+IHe06jqSI=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/html5-uppercase.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4jT6CYhZ8Rkq9P3KMfM1jA==
+SHA1-Digest: +CzBUbI6SJPcx1lIa0iNvoH/DYg=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/htmlmathml-f.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rlqnz7ah7yHVf1UgeeHd3w==
+SHA1-Digest: +FtpR9R6Sv+RGjegmZFCfxUh6zI=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/htmlmathml.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DaoA0AMQcxkauYoGJolOOg==
+SHA1-Digest: s/RAN0ZBbqJvBRybKSB35LA/qag=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isoamsa.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: E/N6wRR8JJUakE3YR7elAA==
+SHA1-Digest: wT59HkzDoYXtIaW/t0xjEdfSKzE=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isoamsb.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kQDLlfaiQmxTBa4hMkawHA==
+SHA1-Digest: cJyhoxsVaYpeoUWgqYOnsL1tcNI=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isoamsc.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VE09X6sx2YlBA/8RC4/36Q==
+SHA1-Digest: JSlTm0mHNU+UfzcobarZm32LlA0=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isoamsn.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cho545gHS4qlrY+DXvVkEg==
+SHA1-Digest: 1Qp5G114gI9E/FQFJ/kW1U0kYOs=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isoamso.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FyxAuKtwUGxdz6CuCi21vw==
+SHA1-Digest: d3L/+zTwVeefY8zIg88kRNXyAxA=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isoamsr.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4d2FTVhzWqBQFtECD+8isA==
+SHA1-Digest: nBy0H8e7tT0Zj9WZTQGGUZ/B0AM=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isobox.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 25SObASAUj3wtMXQFWXE5g==
+SHA1-Digest: RfsaLESRY9bZZpQv2WmLM0EfQks=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isocyr1.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zRv86f+Fe337nIGecjfjuA==
+SHA1-Digest: dmpcQbzDzHMVwVv9CRqx4tWTrkQ=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isocyr2.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b2aSl9k5ZMEw5jCYB03vgQ==
+SHA1-Digest: Qhulmoxk1tXw2uJwDw8fnUaWZH0=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isodia.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fl1mWOXVOzOjwVbUJ6PqIQ==
+SHA1-Digest: UhoiGaX+g1GozEHDcyU1j0vW8Hk=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isogrk1.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gBGqDQSR8V/NqwKKDZXs5g==
+SHA1-Digest: gQdj8FAY09jzozPNGtVxbhmyPrw=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isogrk2.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0ZtcF5BDO84NIg/204bKsw==
+SHA1-Digest: jbHyVm+vN1WZ2f9dN7mp4s7N88k=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isogrk3.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8UaHu0G2gKSwFDLyShDhvA==
+SHA1-Digest: nPqAlxsyrRzGFcmf+zPj/QZC68w=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isogrk4.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Ey+1VUWDYf3oxlIob0Zq8A==
+SHA1-Digest: GlEAvIyKtqS4vBJqSmhzVf8pvFo=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isolat1.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 42+emkZ9SlfFgeXUI8Zs7w==
+SHA1-Digest: G+GlWzLt7cR4HqfECabxjvzUrFc=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isolat2.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tsvsNxe7mYDQp+S0YUOJXA==
+SHA1-Digest: vFmCZNMJ1GEMgNfMwBkn0VcOark=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isomfrk.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oa9xZp6Z0moF6UZueeJOqA==
+SHA1-Digest: 6Df+Q2Z3IP22qJ23f1AqZCK1+2I=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isomopf.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GytF6wOWpd6nSVx7iAt6/Q==
+SHA1-Digest: FA9LAaneFTFnuGpGAeItFriecBw=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isomscr.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Kafv29/vMup/FXEyFrrQ5Q==
+SHA1-Digest: e85yZOrZGXUvRsHThqmaCDlHrJI=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isonum.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: X+GfXld7K7TIfXLOkZEOwA==
+SHA1-Digest: 5gBPuN/uFMoPwPKGCrkj6JMVUDo=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isopub.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iajOk/AyWyQnBFS0ba4G8A==
+SHA1-Digest: rJbQaFq8ZCgT1OWFG1UyOf8pwXg=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/isotech.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dU3Unqv20pGhz51edNCKdg==
+SHA1-Digest: dswK2Gwqjaj33ANs+shnUFocsp4=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/mmlalias.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uyuwT44iP8AvUPyQXdhmOQ==
+SHA1-Digest: aqR6we6nJZlsUepPIVvD2z07N1w=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/mmlextra.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fNk5QABus8JH4wesQPf+ag==
+SHA1-Digest: J7yS1FxwykT9mwrFcnNOgAG/dpY=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/predefined.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zn9COAuippuUfsJ+WAWeQw==
+SHA1-Digest: nAbO3aYEkhbSarIpBepLDqwHUe8=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/README.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hPuIYi13t5qGpCv8aMWE0g==
+SHA1-Digest: XdrDWsa9ynQuPo25rINXdMGsgW8=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/w3centities-f.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: t6McIy3R3h9fOZup2+Mtww==
+SHA1-Digest: ctZYduGYjFXCMG0rROdC79Q7ULk=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/w3centities.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XqAaGFlIkpSFvDN1CchYGw==
+SHA1-Digest: mGhd+iyN2Ll8AfUHqRF4ZqcjHyA=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/xhtml1-lat1.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3FCznucNnrmdMXPJYbZm0w==
+SHA1-Digest: fvPv8dRsotuAOmOC7UexgcmhZkA=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/xhtml1-special.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tpnzAlKpvKtmOMEUXEytvg==
+SHA1-Digest: skOJJ2Wgo9tdPhCRbxlWvcD1sVY=
+
+Name: sgml-lib/REC-xml-entity-names-20100401/xhtml1-symbol.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RJ2EdCalL0rr629RRNFsBA==
+SHA1-Digest: wCmAIX3rzp/b83ajfyaAfCiukRw=
+
+Name: sgml-lib/Specification/xmlspec-v20.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0pMBhAYPRcFVFfJiY1Shsg==
+SHA1-Digest: WuO/dhBsCZ8pKfoambfVxWYTAR8=
+
+Name: sgml-lib/Specification/xmlspec-v21.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AhRs53BBnKoqQzCLFUZnSA==
+SHA1-Digest: wibjkWGU81Aakatgh4f7NYqoMoU=
+
+Name: sgml-lib/Specification/xmlspec.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3pD68lL1J6L7DD3tbP1rxQ==
+SHA1-Digest: EJWcbmxc3AQ+O4NG/Odhuz6p6Uc=
+
+Name: sgml-lib/WD-MathML3-20100610/isoamsa.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: E/N6wRR8JJUakE3YR7elAA==
+SHA1-Digest: wT59HkzDoYXtIaW/t0xjEdfSKzE=
+
+Name: sgml-lib/WD-MathML3-20100610/isoamsb.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kQDLlfaiQmxTBa4hMkawHA==
+SHA1-Digest: cJyhoxsVaYpeoUWgqYOnsL1tcNI=
+
+Name: sgml-lib/WD-MathML3-20100610/isoamsc.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VE09X6sx2YlBA/8RC4/36Q==
+SHA1-Digest: JSlTm0mHNU+UfzcobarZm32LlA0=
+
+Name: sgml-lib/WD-MathML3-20100610/isoamsn.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cho545gHS4qlrY+DXvVkEg==
+SHA1-Digest: 1Qp5G114gI9E/FQFJ/kW1U0kYOs=
+
+Name: sgml-lib/WD-MathML3-20100610/isoamso.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FyxAuKtwUGxdz6CuCi21vw==
+SHA1-Digest: d3L/+zTwVeefY8zIg88kRNXyAxA=
+
+Name: sgml-lib/WD-MathML3-20100610/isoamsr.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4d2FTVhzWqBQFtECD+8isA==
+SHA1-Digest: nBy0H8e7tT0Zj9WZTQGGUZ/B0AM=
+
+Name: sgml-lib/WD-MathML3-20100610/isobox.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 25SObASAUj3wtMXQFWXE5g==
+SHA1-Digest: RfsaLESRY9bZZpQv2WmLM0EfQks=
+
+Name: sgml-lib/WD-MathML3-20100610/isocyr1.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zRv86f+Fe337nIGecjfjuA==
+SHA1-Digest: dmpcQbzDzHMVwVv9CRqx4tWTrkQ=
+
+Name: sgml-lib/WD-MathML3-20100610/isocyr2.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b2aSl9k5ZMEw5jCYB03vgQ==
+SHA1-Digest: Qhulmoxk1tXw2uJwDw8fnUaWZH0=
+
+Name: sgml-lib/WD-MathML3-20100610/isodia.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fl1mWOXVOzOjwVbUJ6PqIQ==
+SHA1-Digest: UhoiGaX+g1GozEHDcyU1j0vW8Hk=
+
+Name: sgml-lib/WD-MathML3-20100610/isogrk3.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8UaHu0G2gKSwFDLyShDhvA==
+SHA1-Digest: nPqAlxsyrRzGFcmf+zPj/QZC68w=
+
+Name: sgml-lib/WD-MathML3-20100610/isolat1.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 42+emkZ9SlfFgeXUI8Zs7w==
+SHA1-Digest: G+GlWzLt7cR4HqfECabxjvzUrFc=
+
+Name: sgml-lib/WD-MathML3-20100610/isolat2.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tsvsNxe7mYDQp+S0YUOJXA==
+SHA1-Digest: vFmCZNMJ1GEMgNfMwBkn0VcOark=
+
+Name: sgml-lib/WD-MathML3-20100610/isomfrk.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oa9xZp6Z0moF6UZueeJOqA==
+SHA1-Digest: 6Df+Q2Z3IP22qJ23f1AqZCK1+2I=
+
+Name: sgml-lib/WD-MathML3-20100610/isomopf.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GytF6wOWpd6nSVx7iAt6/Q==
+SHA1-Digest: FA9LAaneFTFnuGpGAeItFriecBw=
+
+Name: sgml-lib/WD-MathML3-20100610/isomscr.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Kafv29/vMup/FXEyFrrQ5Q==
+SHA1-Digest: e85yZOrZGXUvRsHThqmaCDlHrJI=
+
+Name: sgml-lib/WD-MathML3-20100610/isonum.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: X+GfXld7K7TIfXLOkZEOwA==
+SHA1-Digest: 5gBPuN/uFMoPwPKGCrkj6JMVUDo=
+
+Name: sgml-lib/WD-MathML3-20100610/isopub.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iajOk/AyWyQnBFS0ba4G8A==
+SHA1-Digest: rJbQaFq8ZCgT1OWFG1UyOf8pwXg=
+
+Name: sgml-lib/WD-MathML3-20100610/isotech.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dU3Unqv20pGhz51edNCKdg==
+SHA1-Digest: dswK2Gwqjaj33ANs+shnUFocsp4=
+
+Name: sgml-lib/WD-MathML3-20100610/mathml3-qname.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AiqLq1d/nf2cpI6Wbrj1+A==
+SHA1-Digest: CmPYrK4yPj2NQfQ0rq+TKMQj1lY=
+
+Name: sgml-lib/WD-MathML3-20100610/mathml3.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hDKZXchneNwpc7eHmPurWQ==
+SHA1-Digest: 1Q1KNH/ZRxsXIzyMaS8tu1DRZBU=
+
+Name: sgml-lib/WD-MathML3-20100610/mmlalias.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: uyuwT44iP8AvUPyQXdhmOQ==
+SHA1-Digest: aqR6we6nJZlsUepPIVvD2z07N1w=
+
+Name: sgml-lib/WD-MathML3-20100610/mmlextra.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fNk5QABus8JH4wesQPf+ag==
+SHA1-Digest: J7yS1FxwykT9mwrFcnNOgAG/dpY=
+
+Name: sgml-lib/WD-MathML3-20100610/README.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sFq3I+XqMCaz64p03mAAuw==
+SHA1-Digest: XaiSp2Xh7bx2r8Pv1Ny/V8zya48=
+
+Name: sgml-lib/WD-XHTMLplusMathMLplusSVG-20020809/xhtml-basic-svg-tiny.d
+ td
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: h/v2xxnG3i3XPUpQkM8SDw==
+SHA1-Digest: mRPv20wEFTroUjudtpOZ5uloDnE=
+
+Name: sgml-lib/WD-XHTMLplusMathMLplusSVG-20020809/xhtml-math-svg.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: T9mIe5bPIn6gBBYhj/+dfg==
+SHA1-Digest: 8elrmxnDQ67aKSJ6jd0zWIg1ghI=
+
+Name: sgml-lib/XX-MathML2-20031104/mathml2-qname-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oJcEmIr+AwE001ynFac3pQ==
+SHA1-Digest: dwl9tCA7PP/HgBAzL6HhstnbwP0=
+
+Name: sgml-lib/XX-MathML2-20031104/mathml2.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +k+ddg1meSm94DJ08H3A4w==
+SHA1-Digest: CdxHI+ta5Yg768T89V9JrJCrvAo=
+
+Name: sgml-lib/XX-MathML2-20031104/README.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ufCEUod8vkG+PCtAwWBaDQ==
+SHA1-Digest: z0KWtjxPdBjfY+gb0GAsDpzVpbM=
+
+Name: sgml-lib/XX-MathML2-20031104/xhtml-math11-f.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gE3Fc02ASxRig5y2bZtdhg==
+SHA1-Digest: YWzr0Jlhy1F0OoEK1Qhx6dn3o44=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isoamsa.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tqYC/YM85INZ4zGVJmUJfQ==
+SHA1-Digest: lW8IMCn6U5Wu8+Aw47JCpjFpnaY=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isoamsb.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FRsBeNQ6O1oXyhrXjPODkQ==
+SHA1-Digest: 02m9Zz6nqdask19s2sVFPClCUPU=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isoamsc.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: K0Ok2GCtnqMtwJzdvn/3KQ==
+SHA1-Digest: YwPkdKciV+wSCxYaIMieD8rTsAU=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isoamsn.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: g6/dnP9LX1WhLdaVab0R6w==
+SHA1-Digest: 5tBINflE8y5/HIKHy8+nOXMXl+o=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isoamso.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wFhTszCStjmRC+ynshltOg==
+SHA1-Digest: Gn/pDGzetUaR+s5SM1xoQcTlNkA=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isoamsr.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 537jQVqLHoKvHW7gFRfGow==
+SHA1-Digest: OSHHnEeJSOHiuw0R1YKvAcoWsPE=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isobox.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zc9mPKlMaacO3PcTPTTAfQ==
+SHA1-Digest: ecVGvvKrDNju2an9EtlDh55q1Dk=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isocyr1.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JVxq5BWUq56NXB5wioPVEg==
+SHA1-Digest: dpklmBHuGXxIzALVK4p9Zzy5SIQ=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isocyr2.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0Qm7C1EyDbwJsRiZfrpc5A==
+SHA1-Digest: gCDQxNvmSMyeGk4kbZdqkyTpbXA=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isodia.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tQwvhTh3XxGoXmqFie4KEA==
+SHA1-Digest: qVjioAGjL1b6OwgkM5CClKvnx1A=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isogrk1.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7Rf2gCEPFsGrRwSM/mJ2dQ==
+SHA1-Digest: 0I7DD7nIGg0oxUSsKccB0FdHlt8=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isogrk2.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8zMgXY5CJ+ZP7NZZUbQU9w==
+SHA1-Digest: Sm6HZQXUfoQ80yUuVCvgxiYvcMg=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isogrk3.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5SWTThp2YjSuhIqcWGFWYw==
+SHA1-Digest: qGVq3sEiVXgLTS+D2OIRPNl3Uk0=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isogrk4.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QnRjP0xY1DMYz41dS3Rppg==
+SHA1-Digest: DL4cSs+/QnZnQVRGacaIQ202/j0=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isolat1.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pZU4aNG0GLrbw87Gpza2LA==
+SHA1-Digest: BaFCOOGFZcIu0tbO/GXPHig1mFw=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isolat2.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WMzUQH0bk4ceShNhnYcahw==
+SHA1-Digest: AQ4xJg+gFpsKrdvcIPcLYI6c6IA=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isonum.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7/ugZwwX+h4i5AEFk1BfBg==
+SHA1-Digest: D3wjdVVKqlavsBfaasia3Atl24U=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isopub.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QTU9zCQt7H6KO1k6bVbnDQ==
+SHA1-Digest: uK/V5W8B7fN8whyY6W0vIVAXD1I=
+
+Name: sgml-lib/XX-MathML2-20031104/iso8879/isotech.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zHf6z1OwlzCsW04EZkK2iA==
+SHA1-Digest: k3oZDmzAd4Z6O9x2txA69drbar4=
+
+Name: sgml-lib/XX-MathML2-20031104/iso9573-13/isoamsa.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jQmqpxRoBsO5b2t5dddaqQ==
+SHA1-Digest: cesZjMMBPlGN2u6xqPSj36OtDSo=
+
+Name: sgml-lib/XX-MathML2-20031104/iso9573-13/isoamsb.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WyLcSoAl7zPwb3OTc8ZN+w==
+SHA1-Digest: ViX9QzNUYHqJOYqU4AtM2r4k/Rg=
+
+Name: sgml-lib/XX-MathML2-20031104/iso9573-13/isoamsc.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KYs+7vUlxI4o+t/gu27UUw==
+SHA1-Digest: I6kWk2vn5MQDgKr6JcIzqjMUNHo=
+
+Name: sgml-lib/XX-MathML2-20031104/iso9573-13/isoamsn.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yG/07P3VMib/hf3GYgxsVQ==
+SHA1-Digest: Ouy1daOAgMIEPrl+Zdu6Fn+iogU=
+
+Name: sgml-lib/XX-MathML2-20031104/iso9573-13/isoamso.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TLkbMfSKNnSDknWa/ITydg==
+SHA1-Digest: p2j+K65g1/+Sqj4mZcuHT4+q/3E=
+
+Name: sgml-lib/XX-MathML2-20031104/iso9573-13/isoamsr.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KZfcbG0hrSCdhlxoqFeuKg==
+SHA1-Digest: 667Tk50G0lQNfXy0VhxmgCM9KyM=
+
+Name: sgml-lib/XX-MathML2-20031104/iso9573-13/isogrk3.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: A8JMIuGjh89WOge8zcKfqw==
+SHA1-Digest: scaYwMKXv/iyXOMCwOtK3DvimSM=
+
+Name: sgml-lib/XX-MathML2-20031104/iso9573-13/isogrk4.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: waxiPrTyTMsYPGMbseqJ5Q==
+SHA1-Digest: KrvApJpA6i8BuIdKQQYHY/x1CoE=
+
+Name: sgml-lib/XX-MathML2-20031104/iso9573-13/isomfrk.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jdPVRkxwmVCvvWuG+jUggw==
+SHA1-Digest: z3KSH2AJrlaP+kESB6BETwSPn5I=
+
+Name: sgml-lib/XX-MathML2-20031104/iso9573-13/isomopf.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ff1Q3HiJNd/us1MJvAgwlQ==
+SHA1-Digest: /eb7KiZJVkKP4KgBktXQ9xeBokw=
+
+Name: sgml-lib/XX-MathML2-20031104/iso9573-13/isomscr.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lzu8aGU/Vr17vCnQ3/b8ww==
+SHA1-Digest: rfF88S0jILt1GBqcDAAHMNrIWfc=
+
+Name: sgml-lib/XX-MathML2-20031104/iso9573-13/isotech.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z/QxWWFIwz6JlEGPB+qrOA==
+SHA1-Digest: 910h48r6j6xPS3u9cGz7GKTvwFg=
+
+Name: sgml-lib/XX-MathML2-20031104/mathml/mmlalias.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /Ys8RKsUmN0iEkVjZbO/3A==
+SHA1-Digest: fZTCE8PmzLqNqu3YjinKMkn09es=
+
+Name: sgml-lib/XX-MathML2-20031104/mathml/mmlextra.ent
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CuYanDAPvRDL0LZtiKyakg==
+SHA1-Digest: PUeZ2AM+mYhg5rmn6lf0tTOvAWc=
+
+Name: sgml-lib/XX-xhtml11-20090630/README.txt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Hc2ca+b+ARutUOO9mXBP2A==
+SHA1-Digest: uc62vws0N+UBTAIc7cFHU2UPqPs=
+
+Name: sgml-lib/XX-xhtml11-20090630/xhtml11-model-1.mod
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /wyxs69/lg9FkpwDItaogQ==
+SHA1-Digest: 6RMwVb59YQ9GdnQrK74mBZ1Xles=
+
+Name: sgml-lib/XX-xhtml11-20090630/xhtml11.dtd
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JJqkSrlfyuim0Mm+VbR0dw==
+SHA1-Digest: OcdsZeMnatqnZy6ifFwyPOYAdw4=
+
+Name: skin/access.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WUeaXhc1+gSunRQ0PsgwDQ==
+SHA1-Digest: qJ0Y/TXmGPt227FRbwD3VWjaUWU=
+
+Name: skin/access_big.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yAzWXPW9k45wMwduYoraEg==
+SHA1-Digest: wV6jk5PX2Z0ZYUoKpMfTutt3Ybo=
+
+Name: skin/bad.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1enwCJzFTKIaVn6agLphkA==
+SHA1-Digest: 0cAftutwHtic7MPmbmln2qTOT00=
+
+Name: skin/br.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8ehLF0CsUG019FIzTAb06Q==
+SHA1-Digest: QmbEBzVS/IVqs94w1CsOWKNksto=
+
+Name: skin/charset.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7mNx00yrCWIqmBhSydbSqg==
+SHA1-Digest: uCrpmlrFoCdqwKyTxasp6YKuNVI=
+
+Name: skin/charset_big.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VP+L85KO05GuQSXBvLdPcw==
+SHA1-Digest: OpEYaAff72j4uAevLS+JzIduxu4=
+
+Name: skin/cn.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GwwnTsKNimmjyXVbTVqgzA==
+SHA1-Digest: Q+mMDxxnYWvt4KjnN4YWFu1MSw8=
+
+Name: skin/contents.rdf
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5GoGTvo6yPhmD3kFm5/QMg==
+SHA1-Digest: lYdAuU73+dBViBxv7Ri6bf9nItA=
+
+Name: skin/cz.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: l/ErUkJYaBpYrDDHs44DVQ==
+SHA1-Digest: kI7F7Dhb8PFOh5gsum5ihzKnGO8=
+
+Name: skin/de.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: R9wVfjuBDZl9P3+4pX617w==
+SHA1-Digest: 8YJe06ZYmuWvPR7goXG4Ohw20DQ=
+
+Name: skin/disabled.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vEGKoD+JE7AaMMeMsV9AKQ==
+SHA1-Digest: b95BsqWAAbZB/PzXKCF6UIRqsSg=
+
+Name: skin/dk.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: mVenrdWpUFLa3qK1q1KuVQ==
+SHA1-Digest: mbfQY5SgnoMiwG5StChN8UxJbcs=
+
+Name: skin/ee.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dIgIJ80JT9pMtzv5n3AO1w==
+SHA1-Digest: QqRQBqDXlmyKaNHR5arkHJDHGHA=
+
+Name: skin/empty.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5XWIFW5/AGD9rN/wAyR2Dw==
+SHA1-Digest: TFAWiKXU0k7jG7SF6LS3ZmjgqCw=
+
+Name: skin/en.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Mgue58Gv9Gk6ty7efkPyFg==
+SHA1-Digest: dFpgXTP88uCcGRprJSkjtanQQiY=
+
+Name: skin/error.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1enwCJzFTKIaVn6agLphkA==
+SHA1-Digest: 0cAftutwHtic7MPmbmln2qTOT00=
+
+Name: skin/error_big.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: YEV1TU0CtFXabOKbPmvBRg==
+SHA1-Digest: ocPX7RRk8US1ASgxtSb6p+QGrXM=
+
+Name: skin/es.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4WeojVCY+QSYTYZleJTKBw==
+SHA1-Digest: h0FnO5s50UR5ucu9e7eITR4/1uQ=
+
+Name: skin/exclude.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6DSQOJ+GFXIulfIUCa8klw==
+SHA1-Digest: 5JrwuAIjC/FykbwBBkZXSvhmvuw=
+
+Name: skin/exclude_big.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NMcO2HrwxSeT0q9rsfmAgQ==
+SHA1-Digest: piGXPuAFjIZLsYhGILvZTugbC1I=
+
+Name: skin/fi.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /AQMxkSV4LBZwTrOXS7mUg==
+SHA1-Digest: 2/KoU6n6U0XF7PR10HiORtNYwTs=
+
+Name: skin/fr.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jntgO/3wSFpmTzR4ySF36g==
+SHA1-Digest: Wsq/PhEi0CO2y7YeHuTnGLrS4gc=
+
+Name: skin/good.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bZ8sDs0bby0+5IBWCRte1A==
+SHA1-Digest: 5FhDs1TK8shG5HTStUo0/NYUM8g=
+
+Name: skin/good_big.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZO9z34ZUGChnGoIYUKAUsw==
+SHA1-Digest: EUWrlUErDZJkSv8xkvHec/Vvk+k=
+
+Name: skin/gr.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a8i6+INMHg7/zp00UoVmKg==
+SHA1-Digest: RUC0steWAcLSbQGOuOvwRyEoEwA=
+
+Name: skin/hidden.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WsXsJbFHaFg01iq0X2fbgg==
+SHA1-Digest: W7NHyy2YUIjZ1tvbo8lteHxgF8k=
+
+Name: skin/hidden_big.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: glmrtpb46ZdDTCg2NrSr9Q==
+SHA1-Digest: oN+Igxo+spwMpVLcD63xGEERlig=
+
+Name: skin/html.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ezONjPAavP4kt8vZd//lAg==
+SHA1-Digest: hJ/4kOMpgMcZ5lRtLY2KehfUTOg=
+
+Name: skin/html5.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: q3TP0wharzrtSKMsPRDh7A==
+SHA1-Digest: dxM8cKmDazMG+ffph6fhTIaMH2s=
+
+Name: skin/html_logo.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FMLm+NXfLVMa8mW3JCXcqA==
+SHA1-Digest: jRlNAwYFDZO0u4I4rVk22fff5BE=
+
+Name: skin/hu.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: izTaBoJIMrX1yTkt+s3d0A==
+SHA1-Digest: tC/QS+w8RDbiw9PP5y7kDSMgtFg=
+
+Name: skin/info.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pLgzhkuUXN0xYMvHr18MVw==
+SHA1-Digest: CIyxX5GX0w6jhm9NcAz2yw58jUA=
+
+Name: skin/it.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +F9RBXN+GIYvVQ8VLjQsfQ==
+SHA1-Digest: 3yLsrp830UBErkNE6nnoP1ElQ7I=
+
+Name: skin/jp.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: s0Ygp1Q5hXQoSpcNxa7JXQ==
+SHA1-Digest: m6IuL9gXZzysbe+sf4vkoDMMUlg=
+
+Name: skin/link.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6pTKjprcxsGp8Vm+xIqUjg==
+SHA1-Digest: ULD1uVYNLuPY9BuBmvyxC9yx34g=
+
+Name: skin/lt.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tjBLqy5YoGDTD9onZHFQjQ==
+SHA1-Digest: AEf4OzEu72A/Unl8nmFdXJB8msQ=
+
+Name: skin/lv.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qI8dgIFaS+tE9hCltkdKWQ==
+SHA1-Digest: LMEADOUqQUeJ/5Fdq5IEvwKxnnI=
+
+Name: skin/mail.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2CJ7JEujSxdfze1QEmjIbg==
+SHA1-Digest: vqYGchJjvOuLfmbETZLYoJdiCCA=
+
+Name: skin/message.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0U8X/u499fjI0Z7XMURK9w==
+SHA1-Digest: 84m99bdQ+1GsC8qQqJudtRSCUw8=
+
+Name: skin/new.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fKevgpOEWk2zo4/c4afpyw==
+SHA1-Digest: A5X7aFYTECwBj9qXclabuW8GJq8=
+
+Name: skin/nl.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: G3huUFhkV5aGWkqyZt4new==
+SHA1-Digest: ss/h+cGNdaLUnr5gNYTLG+H/mew=
+
+Name: skin/no.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: myhJKU4/hSnwe0ybKPywzQ==
+SHA1-Digest: TFk6yMn2u0La/JzNXT8e49tOPDQ=
+
+Name: skin/not_used.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CZwG5o5iAHe/5a7xRrJ9oA==
+SHA1-Digest: QTngafFDr7sOwsjsTBPGQ/Ypxsc=
+
+Name: skin/not_validated.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Hzp9ueh+5cGcsjmEzY6mrQ==
+SHA1-Digest: 109LAByp/5dXJ2nP9IqLIXV4jpE=
+
+Name: skin/pl.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5qNVvcSNzXyfklpVx5gdGA==
+SHA1-Digest: OmHpjch58VNfX1hXSdWOTBBEpnE=
+
+Name: skin/question.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lhU+K27xKxDH0ubOrQIazw==
+SHA1-Digest: va7zwWo/iItXUcyot3NEPOeQsok=
+
+Name: skin/ro.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: u1Q5zsDntctmVwSf0Od6ow==
+SHA1-Digest: 67r5eTTO42FZDyynuN1x1UV4CJo=
+
+Name: skin/ru.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: O2VDVDYTssVZao71O+/75A==
+SHA1-Digest: PcsHnyNfnmYa/V4CxXS5cLRHjYU=
+
+Name: skin/se.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cqn7tvoywiPBovwSTR3cTQ==
+SHA1-Digest: rpjcc7hiIz6muWrwulvk0bLD9cQ=
+
+Name: skin/serial_16.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2t52eSc1TfHrTmEvM8aI0w==
+SHA1-Digest: g6VOOtPFVi1MrfjPyoEyKD3wRn8=
+
+Name: skin/serial_32.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KsCQSMJNK2DDybZiryaR2w==
+SHA1-Digest: FB/C1H9tlkYm2coKdgFJUDWfOQk=
+
+Name: skin/serial_logo_big.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9RnxEgYAypphkh0pfo4E5Q==
+SHA1-Digest: +aplBuWdq5Ix2Fkf6XapTsrC2Mk=
+
+Name: skin/sp_16.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tDs4x8j/q8YoyCUAMDUGlA==
+SHA1-Digest: 7h5YlFr0BIw6wkZvbINnsbKTiyw=
+
+Name: skin/sp_32.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4wiEHut6Rf4V1FTxbY7P0w==
+SHA1-Digest: yl6PaJFRmnquJGL7abZqiWKLQ9o=
+
+Name: skin/Thumbs.db
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BodR4OVsFhsrK73gN0ANtQ==
+SHA1-Digest: y9E/mYD3z/OZf2hC/ZNhSIhQDMM=
+
+Name: skin/tidy.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7tZEDo8mDIB5jDTsC6GZqQ==
+SHA1-Digest: V9X0DEdZniohAcz92T1GHeeJegg=
+
+Name: skin/tidy_16.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: a53hxtimw8gXid9A7PfKuQ==
+SHA1-Digest: 7SEldmqL6hgtR7cNwNnLXCdJ2rY=
+
+Name: skin/tidy_32.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: M0RhouCyqqqnQ0eE4FxpAA==
+SHA1-Digest: UebnMW/jeM084WW9O+F5sEfL1aY=
+
+Name: skin/toc.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pKgEczHi1MV82k0goIv8gA==
+SHA1-Digest: xNPeXRQGh+mDPqezFX7pwRRJrD4=
+
+Name: skin/toc3.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 98gilePdNikJvksl/TvCXQ==
+SHA1-Digest: 3dnEO8pI5i7myBY3MWQQsD8lzsI=
+
+Name: skin/tr.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Xvhm4dpJupp9GJf/oVnG6g==
+SHA1-Digest: dc+h9W9lHGZLPyQ4l4ioQxZvt2Y=
+
+Name: skin/tw.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: k7z1mdj1kMmsiKbVJgYMug==
+SHA1-Digest: V52vmcauxgG22OmOZMkBR2SXzwY=
+
+Name: skin/vh401.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: b4RCHHz50RSaG1etcfNfFg==
+SHA1-Digest: Vz1q464NuAp9BVibViPbvtuwIqE=
+
+Name: skin/vxhtml11.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2fxzTK/q6OSwOjJZfagEBw==
+SHA1-Digest: y6/DMhr+f1ldsE4kGBAMUopEdOs=
+
+Name: skin/warning.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ucum925DboV2UNPmx9B00g==
+SHA1-Digest: C3+MCgBeA/kf5YZDAWgRc80IMAE=
+
+Name: skin/warning_big.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3iolFE+cBsyG4xymP2HVKA==
+SHA1-Digest: GjSEyiKihWGkbmtqZSTDuBj8CTM=
+
+Name: skin/working.gif
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QEGDg5R/5jNQVvzgWr5Eog==
+SHA1-Digest: pJ12a8ioOZtv5R62Xsl8wzu2hyE=
+

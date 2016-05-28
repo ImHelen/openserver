@@ -1,0 +1,14 @@
+To: example@mail.ru
+Subject: =?UTF-8?B?0JTQtdGC0LDQu9C4INGD0YfRkdGC0L3QvtC5INC30LDQv9C40YHQuCBsZW5hIA==?=  =?UTF-8?B?0L3QsCDRgdCw0LnRgtC1IMKrbG9jYWxob3N0wrsgKNC+0LbQuNC00LDQtdGCIA==?=  =?UTF-8?B?0L7QtNC+0LHRgNC10L3QuNGPINCw0LTQvNC40L3QuNGB0YLRgNCw0YLQvtGA0L4=?=  =?UTF-8?B?0Lwp?=
+X-PHP-Originating-Script: 0:system.mail.inc
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed; delsp=yes
+Content-Transfer-Encoding: 8Bit
+X-Mailer: Drupal
+Sender: example@mail.ru
+From: example@mail.ru
+
+lena подал заявку на получение учетной
+записи.
+
+http://localhost/user/5/edit
